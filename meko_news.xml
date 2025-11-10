@@ -1,182 +1,14 @@
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:ns0="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>MEKÓ - News</title>
+    <title>MEKÓ - Fréttir</title>
     <link>https://menning.kopavogur.is/</link>
-    <description>Menning í Kópavogi - nýjustu fréttir og viðburðir  (news only)</description>
+    <description>Menning í Kópavogi - nýjustu fréttir og viðburðir  (fréttir)</description>
     <category>Menning</category>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 29 Oct 2025 12:20:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Nov 2025 09:35:20 +0000</lastBuildDate>
     <ttl>60</ttl>
-    <item>
-      <title>Myndlist og náttúra 4. fasi</title>
-      <link>https://menning.kopavogur.is/2025/10/14/myndlist-og-nattura-4-fasi/</link>
-      <description>Gerðarsafn og Náttúrufræðistofa Kópavogs hlutu öndvegisstyrk frá Safnasjóði til að vinna verkefnið Myndlist og náttúra. Í haust vinna söfnin að fjórða fasa verkefnisins með þriðja bekk í grunnskólum Kópavogs undir heitinu Skúlptúrgarður barnanna. Náttúran er sannarlega magnaður myndhöggvari. Í vetur ætlum við að skoða hvernig náttúruöflin móta landið og skoða þrívíð verk eftir Gerði Helgadóttur […]</description>
-      <ns0:encoded>
-&lt;p&gt;Gerðarsafn og Náttúrufræðistofa Kópavogs hlutu öndvegisstyrk frá Safnasjóði til að vinna verkefnið Myndlist og náttúra. Í haust vinna söfnin að fjórða fasa verkefnisins með þriðja bekk í grunnskólum Kópavogs undir heitinu Skúlptúrgarður barnanna.&lt;/p&gt;
-
-
-
-&lt;p&gt;Náttúran er sannarlega magnaður myndhöggvari. Í vetur ætlum við að skoða hvernig náttúruöflin móta landið og skoða þrívíð verk eftir Gerði Helgadóttur í því samhengi. Börnin setja sig í spor jökuls sem býr til dali eða eldfjalls sem gýs og skapar nýtt land og búa til landslagsskúlptúr úr gipsi sem þau taka með heim. &lt;/p&gt;
-
-
-
-&lt;p&gt;&lt;/p&gt;
-</ns0:encoded>
-      <author>Þorgerður Þórhallsdóttir (Þorgerður Þórhallsdóttir)</author>
-      <guid isPermaLink="false">https://menning.kopavogur.is/?p=30798</guid>
-      <category>news</category>
-      <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2025/10/20251008_104726.jpg" length="0" type="image/jpeg" />
-      <pubDate>Tue, 14 Oct 2025 10:57:52 +0000</pubDate>
-      <media:content url="https://menning.kopavogur.is/wp-content/uploads/2025/10/20251008_104726.jpg" medium="image" type="image/jpeg" width="600" height="400" />
-      <dc:creator>Þorgerður Þórhallsdóttir</dc:creator>
-    </item>
-    <item>
-      <title>Glæný viðbygging við Náttúrufræðistofu og Bókasafn Kópavogs</title>
-      <link>https://menning.kopavogur.is/2025/10/15/glaeny-vidbygging-vid-natturufraedistofu-og-bokasafn-kopavogs/</link>
-      <description>Á dögunum opnaði glæný viðbygging við Bókasafn Kópavogs og Náttúrufræðistofu Kópavogs. Byggingin er nýstárleg, skortir reyndar alfarið veggi og þak, enda ætluð fyrir fiðraða gesti. Margir eplakjarnar falla til á vikulegum Get together hittingum þar sem hælisleitendur og flóttafólk eru sérstaklega boðin velkomin í samstarfi við GETU hjálparsamtök. Til að styðja við hringrásarhagkerfið og fá […]</description>
-      <ns0:encoded>
-&lt;div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex"&gt;
-&lt;div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"&gt;
-&lt;p&gt;Á dögunum opnaði glæný viðbygging við Bókasafn Kópavogs og Náttúrufræðistofu Kópavogs. Byggingin er nýstárleg, skortir reyndar alfarið veggi og þak, enda ætluð fyrir fiðraða gesti.&lt;/p&gt;
-
-
-
-&lt;p&gt;Margir eplakjarnar falla til á vikulegum Get together hittingum þar sem hælisleitendur og flóttafólk eru sérstaklega boðin velkomin í samstarfi við GETU hjálparsamtök. Til að styðja við hringrásarhagkerfið og fá fleiri fuglagesti á söfnin hafa bókasafnið og Náttúrufræðistofa opnað sérstakt rými fyrir fljúgandi gesti. Börnin úr Get together geta þá farið með afganga af eplunum sínum út og gefið smáfuglunum gott í gogginn.&lt;/p&gt;
-
-
-
-&lt;p&gt;,,Við erum mjög ánægð að geta gert eitthvað fyrir minnstu gestina okkar, smáfuglana. Á bókasafninu eru til heilmargar bækur um fugla; skáldsögur, ævintýri, ljóðabækur jafnt sem fræðibækur, sem fjölskyldur geta notið þess að lesa saman og kynnst þannig betur þessum heillandi dýrum,“ segir Eyrún Ósk Jónsdóttir, verkefnastjóri fræðslu og viðburða á bókasafninu.&lt;/p&gt;
-
-
-
-&lt;p&gt;Það voru vaskir og útsjónarsamir starfsmenn menningarhúsana sem hönnuðu nýja rýmið. &amp;nbsp;&lt;/p&gt;
-
-
-
-&lt;p&gt;,,Það er gaman að geta nýtt góða afganga fyrir fuglana sem annars fara kannski bara í urðun,“ segir Hlynur Steinsson líffræðingur á Náttúrufræðistofu Kópavogs. „Margt af því sem að okkur finnst sjálfum vera rusl getur verið hágæða fuglafóður. Sumir spörfuglar reiða sig á matargjafir frá mennskum samborgurum sínum yfir köldustu mánuði ársins.“&lt;/p&gt;
-
-
-
-&lt;p&gt;Helstu fuglar sem sækja í garða á höfuðborgarsvæðinu eru skógarþrestir, svartþrestir, starar og auðnutittlingar. Sjaldséðari gestir eru svo krossnefur og silkitoppa.&lt;/p&gt;
-&lt;/div&gt;
-
-
-
-&lt;div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"&gt;
-&lt;p&gt;&lt;strong&gt;Það eru nokkur atriði sem er ágætt að hafa í huga við fuglafóðrun&lt;/strong&gt;&lt;/p&gt;
-
-
-
-&lt;p&gt;Það getur verið gott að vera bara með einn dall eða skál í eldhúsinu sem að maður safnar ætilegum bitum og afgöngum. Síðan tæmir maður bara úr dallinum úti í garði þegar hann fyllist. Flest öllu má safna og gefa fuglum. Það eina sem þarf að passa er að það sé ekki of salt, ekki of myglað og ekki avókadó. Dæmi um afganga sem er gott að safna eru:&lt;/p&gt;
-
-
-
-&lt;ul class="wp-block-list"&gt;
-&lt;li&gt;Epli&lt;/li&gt;
-
-
-
-&lt;li&gt;Hafragrautur&lt;/li&gt;
-
-
-
-&lt;li&gt;Brauðbitar og mylsna (fjölkorna brauð er best)&lt;/li&gt;
-
-
-
-&lt;li&gt;Hrísgrjón&lt;/li&gt;
-
-
-
-&lt;li&gt;Feiti og tólg&lt;/li&gt;
-
-
-
-&lt;li&gt;Rúsínur&lt;/li&gt;
-&lt;/ul&gt;
-
-
-
-&lt;p&gt;Einnig er gott að huga að sjálfum fóðurstaðnum. Best er að gefa á lítinn pall, hús eða stauk sem er uppi í tré þar sem kettir ná ekki auðveldlega til fuglanna.&lt;/p&gt;
-
-
-
-&lt;p&gt;Smáfuglar eru svo líklegri til að heimsækja garða þar sem eru runnar og tré. Þrestir sækja auðvitað sérstaklega í reynitré á haustin. Auðnutittlingar borða mikið af birkifræjum á haustin og vorin. Laufhrúgur hafa að geyma mikið af skordýrum og öðrum hryggleysingjum sem fuglum þykir hið mesta hnossgæti. Villtir garðar eru oftast góðir fuglagarðar.&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-</ns0:encoded>
-      <author>Harpa Grétarsdóttir (Harpa Grétarsdóttir)</author>
-      <guid isPermaLink="false">https://menning.kopavogur.is/?p=30825</guid>
-      <category>news</category>
-      <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2025/10/Vidbygging-bokasafn-og-natturufraedistofa-.jpg" length="0" type="image/jpeg" />
-      <pubDate>Wed, 15 Oct 2025 13:27:59 +0000</pubDate>
-      <media:content url="https://menning.kopavogur.is/wp-content/uploads/2025/10/Vidbygging-bokasafn-og-natturufraedistofa-.jpg" medium="image" type="image/jpeg" width="600" height="400" />
-      <dc:creator>Harpa Grétarsdóttir</dc:creator>
-    </item>
-    <item>
-      <title>Leikfélag Kópavogs sýnir Herbergi 213</title>
-      <link>https://menning.kopavogur.is/2025/10/16/leikfelag-kopavogs-synir-herbergi-213/</link>
-      <description>Herbergi 213 er leikstýrt af Sigrúnu Tryggvadóttur og verður frumsýnt 25.október. Verkið er eftir Jökul Kakobsson og var fyrst frumsýnt í Þjóðleikhúsinu 1974. Herbergi 213 fjallar um Albert sem kemur til að ganga frá heildarskipulagi í bæ úti á landi. Hann kemur á heimili Péturs, látins skólafélaga síns. Konurnar á heimilinu taka vel á móti […]</description>
-      <ns0:encoded>
-&lt;p&gt;Herbergi 213 er leikstýrt af Sigrúnu Tryggvadóttur og verður frumsýnt 25.október.&lt;/p&gt;
-
-
-
-&lt;p&gt;Verkið er eftir Jökul Kakobsson og var fyrst frumsýnt í Þjóðleikhúsinu 1974. Herbergi 213 fjallar um Albert sem kemur til að ganga frá heildarskipulagi í bæ úti á landi. Hann kemur á heimili Péturs, látins skólafélaga síns. Konurnar á heimilinu taka vel á móti honum. Líf færist í húsið, en ekki er allt sem sýnist.&lt;/p&gt;
-
-
-
-&lt;p&gt;&amp;#8222;Það eru 50 ár síðan Herbergi 213 eftir Jökul Jakobsson var sett upp í Þjóðleikhúsinu og áhugavert fyrir okkar kynslóð að sjá hvernig skrifað var fyrir konur á leiksviði árið 1974. En þetta er eitt af fyrstu verkum á íslensku leiksviði sem skrifað var fyrir konur. Í ár eru 50 ár frá því að kvennafrídagurinn var og því vel viðeigandi að setja upp íslenskt verk með konur í aðalhlutverki og spegla 50 ára gamalt verk við nútímann. Æfingar hófust í vor á samlestri verksins og vali á leikurum og hófust svo æfingar nú í september. Æfingarnar hafa gengið vel og litríkar persónur verksins hafa tekið á sig mynd ásamt leikmynd sem minnir á þann tíma sem verkið var skrifað&amp;#8220;. Segir Anna Margrét hjá leikfélagi Kópavogs. &lt;/p&gt;
-
-
-
-&lt;p&gt;Það sem er spennandi við þetta verk er að nálgunin getur verið mjög ólík. Er þetta sakamálaleikrit, sálfræðidrama, gamanleikrit? Á æfingatímanum var oft rætt um að það væri gaman að setja það aftur upp með allt annarri nálgun.&lt;br&gt;Í leikdómi frá 1974 í Þjóðviljanum segir um verkið „Ég held að Jökull hafi aldrei skrifað fyndnara leikrit“ og því ættu áhorfendur að eiga von á góðri skemmtun með þessum litríku persónum sem eru í verkinu. Bætir hún og brosir. &lt;/p&gt;
-
-
-
-&lt;p&gt;Sýningar verða í október og nóvember. Sjá sýningadaga inn á Tix eða með því að smella á hlekkinn hér fyrir neðan &lt;/p&gt;
-
-
-
-&lt;p&gt;&lt;a rel="noreferrer noopener" target="_blank" href="https://tix.is/event/20445/herbergi-213"&gt;Herbergi 213 | Tix&lt;/a&gt;&lt;/p&gt;
-</ns0:encoded>
-      <author>Vigdís Másdóttir (Vigdís Másdóttir)</author>
-      <guid isPermaLink="false">https://menning.kopavogur.is/?p=30747</guid>
-      <category>news</category>
-      <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2025/10/be726b75-cea6-4444-a321-1a12379f209a.jpg" length="0" type="image/jpeg" />
-      <pubDate>Thu, 16 Oct 2025 19:24:32 +0000</pubDate>
-      <media:content url="https://menning.kopavogur.is/wp-content/uploads/2025/10/be726b75-cea6-4444-a321-1a12379f209a.jpg" medium="image" type="image/jpeg" width="600" height="400" />
-      <dc:creator>Vigdís Másdóttir</dc:creator>
-    </item>
-    <item>
-      <title>Líf og fjör í vetrarfríi</title>
-      <link>https://menning.kopavogur.is/2025/10/17/lif-og-fjor-i-vetrarfrii/</link>
-      <description>Það verður líf og fjör allt vetrarfríið í menningarhúsunum í Kópavogi þar sem boðið verður upp á veglega dagskrá fyrir börn á öllum aldri, en vetrarfríið fellur á dagana 27. og 28. október. Bókasafn Kópavogs, Gerðarsafn og Náttúrufræðistofa bjóða í fjölbreyttar smiðjur báða dagana fyrir yngra og miðstig. Á Náttúrufræðistofu verður fræðsla um hina ófrýnilegu […]</description>
-      <ns0:encoded>
-&lt;p&gt;Það verður líf og fjör allt vetrarfríið í menningarhúsunum í Kópavogi þar sem boðið verður upp á veglega dagskrá fyrir börn á öllum aldri, en vetrarfríið fellur á dagana 27. og 28. október.&lt;/p&gt;
-
-
-
-&lt;p&gt;Bókasafn Kópavogs, Gerðarsafn og Náttúrufræðistofa bjóða í fjölbreyttar smiðjur báða dagana fyrir yngra og miðstig. Á Náttúrufræðistofu verður fræðsla um hina ófrýnilegu fiska kjaftagelgjur sem lýsa upp undirdjúpin með lífljómun og svo búa börnin til sínar eigin sjálflýsandi kjaftagelgjur úr origami. Á Gerðarsafni verða búin til gjósandi eldfjöll með ÞYKJÓ og á bókasafninu verður grímuföndur með fjöðrum og öllum heimsins litum sem svo verður hægt að mynda í myndakassa sem verður á svæðinu. Þetta og margt fleira í boði, en &lt;a href="https://menning.kopavogur.is/event_umbrella/vetrarfri/"&gt;dagskrána í heild sinni má nálgast hér&lt;/a&gt;.&lt;/p&gt;
-
-
-
-&lt;p&gt;Fyrir unglingana verður sérstök dagskrá á bókasafninu, en þeim er boðið í mangateiknismiðju fyrir 12 ára og eldri auk þess að þau hafa tækifæri til að spjalla við rafíþróttaþjálfarann Patrek Gunnlaugsson. Foreldrar eru einnig velkomnir í spjallið og hvetjum við foreldra og börn til að mæta saman og spjalla við Patrek um tækifæri, hættur, vinsæla leiki og allt það sem brennur á fólki varðandi tölvuleikjanotkun. Nokkrar tölvur verða á svæðinu svo hægt verður að prófa einhverja leiki.&lt;/p&gt;
-
-
-
-&lt;figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex"&gt;&lt;/figure&gt;
-</ns0:encoded>
-      <author>Harpa Grétarsdóttir (Harpa Grétarsdóttir)</author>
-      <guid isPermaLink="false">https://menning.kopavogur.is/?p=30830</guid>
-      <category>news</category>
-      <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2025/10/DI6A3854.jpg" length="0" type="image/jpeg" />
-      <pubDate>Fri, 17 Oct 2025 10:30:05 +0000</pubDate>
-      <media:content url="https://menning.kopavogur.is/wp-content/uploads/2025/10/DI6A3854.jpg" medium="image" type="image/jpeg" width="600" height="400" />
-      <dc:creator>Harpa Grétarsdóttir</dc:creator>
-    </item>
     <item>
       <title>Staðarlistamaður Salarins árið 2025</title>
       <link>https://menning.kopavogur.is/2025/10/17/stadarlistamadur-salarins-arid-2025/</link>
@@ -315,7 +147,7 @@
 
 
 &lt;div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"&gt;
-&lt;figure class="wp-block-image size-large"&gt;&lt;img decoding="async" width="683" height="1024" src="https://menning.kopavogur.is/wp-content/uploads/2025/10/Salurinn_Jol_Gjafakort_Buzz_400x600-683x1024.jpg" alt="" class="wp-image-30892" srcset="https://menning.kopavogur.is/wp-content/uploads/2025/10/Salurinn_Jol_Gjafakort_Buzz_400x600-683x1024.jpg 683w, https://menning.kopavogur.is/wp-content/uploads/2025/10/Salurinn_Jol_Gjafakort_Buzz_400x600-200x300.jpg 200w, https://menning.kopavogur.is/wp-content/uploads/2025/10/Salurinn_Jol_Gjafakort_Buzz_400x600-768x1152.jpg 768w, https://menning.kopavogur.is/wp-content/uploads/2025/10/Salurinn_Jol_Gjafakort_Buzz_400x600-1024x1536.jpg 1024w, https://menning.kopavogur.is/wp-content/uploads/2025/10/Salurinn_Jol_Gjafakort_Buzz_400x600-1366x2048.jpg 1366w, https://menning.kopavogur.is/wp-content/uploads/2025/10/Salurinn_Jol_Gjafakort_Buzz_400x600.jpg 1667w" sizes="(max-width: 683px) 100vw, 683px" /&gt;&lt;/figure&gt;
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="683" height="1024" src="https://menning.kopavogur.is/wp-content/uploads/2025/10/Salurinn_Jol_Gjafakort_Buzz_400x600-683x1024.jpg" alt="" class="wp-image-30892" srcset="https://menning.kopavogur.is/wp-content/uploads/2025/10/Salurinn_Jol_Gjafakort_Buzz_400x600-683x1024.jpg 683w, https://menning.kopavogur.is/wp-content/uploads/2025/10/Salurinn_Jol_Gjafakort_Buzz_400x600-200x300.jpg 200w, https://menning.kopavogur.is/wp-content/uploads/2025/10/Salurinn_Jol_Gjafakort_Buzz_400x600-768x1152.jpg 768w, https://menning.kopavogur.is/wp-content/uploads/2025/10/Salurinn_Jol_Gjafakort_Buzz_400x600-1024x1536.jpg 1024w, https://menning.kopavogur.is/wp-content/uploads/2025/10/Salurinn_Jol_Gjafakort_Buzz_400x600-1366x2048.jpg 1366w, https://menning.kopavogur.is/wp-content/uploads/2025/10/Salurinn_Jol_Gjafakort_Buzz_400x600.jpg 1667w" sizes="(max-width: 683px) 100vw, 683px" /&gt;&lt;/figure&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 
@@ -380,13 +212,13 @@
 
 &lt;div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex"&gt;
 &lt;div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"&gt;
-&lt;figure class="wp-block-image size-large"&gt;&lt;img fetchpriority="high" decoding="async" width="1024" height="683" src="https://menning.kopavogur.is/wp-content/uploads/2025/10/rafraen-greidslugatt-1-1024x683.jpg" alt="" class="wp-image-30964" srcset="https://menning.kopavogur.is/wp-content/uploads/2025/10/rafraen-greidslugatt-1-1024x683.jpg 1024w, https://menning.kopavogur.is/wp-content/uploads/2025/10/rafraen-greidslugatt-1-300x200.jpg 300w, https://menning.kopavogur.is/wp-content/uploads/2025/10/rafraen-greidslugatt-1-768x512.jpg 768w, https://menning.kopavogur.is/wp-content/uploads/2025/10/rafraen-greidslugatt-1.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Á myndinni eru Védís Hervör Árnadóttir umbóta- og þróunrstjóri, Lísa Zachrison Valdimarsdóttir forstöðumaður Bókasafnsins, Ásdís Kristjánsdóttir bæjarstjóri, Ásta Sirrí Jónasdóttir og Íris Dögg Sverrisdóttir sérfræðingar á Bókasafni Kópavogs og Vésteinn Bjarnason, forritari hjá Wise. Á myndina vantar Jakob Sindra Þórsson, teymisstjóra stafrænnar þróunar.&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="1024" height="683" src="https://menning.kopavogur.is/wp-content/uploads/2025/10/rafraen-greidslugatt-1-1024x683.jpg" alt="" class="wp-image-30964" srcset="https://menning.kopavogur.is/wp-content/uploads/2025/10/rafraen-greidslugatt-1-1024x683.jpg 1024w, https://menning.kopavogur.is/wp-content/uploads/2025/10/rafraen-greidslugatt-1-300x200.jpg 300w, https://menning.kopavogur.is/wp-content/uploads/2025/10/rafraen-greidslugatt-1-768x512.jpg 768w, https://menning.kopavogur.is/wp-content/uploads/2025/10/rafraen-greidslugatt-1.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Á myndinni eru Védís Hervör Árnadóttir umbóta- og þróunrstjóri, Lísa Zachrison Valdimarsdóttir forstöðumaður Bókasafnsins, Ásdís Kristjánsdóttir bæjarstjóri, Ásta Sirrí Jónasdóttir og Íris Dögg Sverrisdóttir sérfræðingar á Bókasafni Kópavogs og Vésteinn Bjarnason, forritari hjá Wise. Á myndina vantar Jakob Sindra Þórsson, teymisstjóra stafrænnar þróunar.&lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/div&gt;
 
 
 
 &lt;div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"&gt;
-&lt;figure class="wp-block-image size-large"&gt;&lt;img decoding="async" width="1024" height="683" src="https://menning.kopavogur.is/wp-content/uploads/2025/10/greidslugattin-sjalfsafgreidsluvel-1-1024x683.jpg" alt="" class="wp-image-30966" srcset="https://menning.kopavogur.is/wp-content/uploads/2025/10/greidslugattin-sjalfsafgreidsluvel-1-1024x683.jpg 1024w, https://menning.kopavogur.is/wp-content/uploads/2025/10/greidslugattin-sjalfsafgreidsluvel-1-300x200.jpg 300w, https://menning.kopavogur.is/wp-content/uploads/2025/10/greidslugattin-sjalfsafgreidsluvel-1-768x512.jpg 768w, https://menning.kopavogur.is/wp-content/uploads/2025/10/greidslugattin-sjalfsafgreidsluvel-1-1536x1024.jpg 1536w, https://menning.kopavogur.is/wp-content/uploads/2025/10/greidslugattin-sjalfsafgreidsluvel-1-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Greiðslugáttin&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="1024" height="683" src="https://menning.kopavogur.is/wp-content/uploads/2025/10/greidslugattin-sjalfsafgreidsluvel-1-1024x683.jpg" alt="" class="wp-image-30966" srcset="https://menning.kopavogur.is/wp-content/uploads/2025/10/greidslugattin-sjalfsafgreidsluvel-1-1024x683.jpg 1024w, https://menning.kopavogur.is/wp-content/uploads/2025/10/greidslugattin-sjalfsafgreidsluvel-1-300x200.jpg 300w, https://menning.kopavogur.is/wp-content/uploads/2025/10/greidslugattin-sjalfsafgreidsluvel-1-768x512.jpg 768w, https://menning.kopavogur.is/wp-content/uploads/2025/10/greidslugattin-sjalfsafgreidsluvel-1-1536x1024.jpg 1536w, https://menning.kopavogur.is/wp-content/uploads/2025/10/greidslugattin-sjalfsafgreidsluvel-1-2048x1365.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Greiðslugáttin&lt;/figcaption&gt;&lt;/figure&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 </ns0:encoded>
@@ -457,27 +289,289 @@
       <dc:creator>Hulda Margrét Birkisdóttir</dc:creator>
     </item>
     <item>
-      <title>Lokað mánudaginn 27. október</title>
-      <link>https://menning.kopavogur.is/2025/10/28/lokad-manudaginn-27-oktober/</link>
-      <description>Vegna veðurs verður lokað á Bókasafni Kópaovgs, aðalsafni og Lindasafni, Gerðarsafni, Náttúrufræðistofu og Salnum. Lögregla hvetur fólk til að vera ekki á ferðinni að nauðsynjalausu og huga að heimferð sem allra fyrst.</description>
+      <title>Ný sýning í Y gallerí</title>
+      <link>https://menning.kopavogur.is/2025/10/31/ny-syning-i-y-galleri/</link>
+      <description>Listakonan Geirþrúður Finnbogadóttir Hjörvar opnar glæsilega sýningu í Y gallerí laugardaginn 1. nóvember kl. 15. Verið hjartanlega velkomin. Verkin á sýningunni „Afregluvæðing“ fjalla um hugtak hagfræðinnar út frá forsendum stýrifræðinnar (cybernetics) ­– þar sem hugtakið „afregluvæðing“ er samnefnari fyrir óstöðugleika. Slíkur óstöðugleiki innan stýrifræðarinnar gæti leitt til kerfishruns, eða hugsanlega til nýs samvægis (homeostasis) þar […]</description>
       <ns0:encoded>
-&lt;p&gt;Vegna veðurs verður lokað á Bókasafni Kópaovgs, aðalsafni og Lindasafni, Gerðarsafni, Náttúrufræðistofu og Salnum. &lt;/p&gt;
+&lt;p&gt;Listakonan Geirþrúður Finnbogadóttir Hjörvar opnar glæsilega sýningu í Y gallerí laugardaginn 1. nóvember kl. 15. Verið hjartanlega velkomin.&lt;/p&gt;
 
 
 
-&lt;p&gt;Lögregla hvetur fólk til að vera ekki á ferðinni að nauðsynjalausu og huga að heimferð sem allra fyrst. &lt;/p&gt;
+&lt;p&gt;&lt;a&gt;&lt;/a&gt;Verkin á sýningunni „Afregluvæðing“ fjalla um hugtak hagfræðinnar út frá forsendum stýrifræðinnar (cybernetics) ­– þar sem hugtakið „afregluvæðing“ er samnefnari fyrir óstöðugleika. Slíkur óstöðugleiki innan stýrifræðarinnar gæti leitt til kerfishruns, eða hugsanlega til nýs samvægis (homeostasis) þar sem jafnvægi er náð milli ráðandi afla. En hugmyndin bak við verkin á sýningunni er því að skoða afregluvæðingu – sem fór að vera ráðandi á níunda áratugnum – út frá sambandi þess við regluvæðingu – sem varð móðins í byrjun fjórða áratugsins eða eftir heimskreppuna árið 1929 – sem andstæð öfl sem eru í díalektísku sambandi hvort við annað.&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="1024" height="1024" src="https://menning.kopavogur.is/wp-content/uploads/2025/10/afregluvaeding-1024x1024.jpg" alt="" class="wp-image-31041" srcset="https://menning.kopavogur.is/wp-content/uploads/2025/10/afregluvaeding-1024x1024.jpg 1024w, https://menning.kopavogur.is/wp-content/uploads/2025/10/afregluvaeding-300x300.jpg 300w, https://menning.kopavogur.is/wp-content/uploads/2025/10/afregluvaeding-150x150.jpg 150w, https://menning.kopavogur.is/wp-content/uploads/2025/10/afregluvaeding-768x768.jpg 768w, https://menning.kopavogur.is/wp-content/uploads/2025/10/afregluvaeding-1536x1536.jpg 1536w, https://menning.kopavogur.is/wp-content/uploads/2025/10/afregluvaeding-2048x2048.jpg 2048w, https://menning.kopavogur.is/wp-content/uploads/2025/10/afregluvaeding-192x192.jpg 192w" sizes="(max-width: 1024px) 100vw, 1024px" /&gt;&lt;/figure&gt;
+</ns0:encoded>
+      <author>Harpa Grétarsdóttir (Harpa Grétarsdóttir)</author>
+      <guid isPermaLink="false">https://menning.kopavogur.is/?p=31040</guid>
+      <category>news</category>
+      <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2025/10/Geirthrudur_opnun_afregluvaeding.jpg" length="0" type="image/jpeg" />
+      <pubDate>Fri, 31 Oct 2025 10:10:20 +0000</pubDate>
+      <media:content url="https://menning.kopavogur.is/wp-content/uploads/2025/10/Geirthrudur_opnun_afregluvaeding.jpg" medium="image" type="image/jpeg" width="600" height="400" />
+      <dc:creator>Harpa Grétarsdóttir</dc:creator>
+    </item>
+    <item>
+      <title>Sýningarsalir lokaðir tímabundið</title>
+      <link>https://menning.kopavogur.is/2025/11/03/syningarsalir-lokadir-timabundid/</link>
+      <description>Þessa dagana er unnið að uppsetningu sýningarinnar Skúlptúr skúlptúr performans í sýningarstjórn Jo Pawlowskx. Sýningarsalir á efri hæð eru lokaðir á meðan. Grunnsýning Gerðar Helgadóttur, safnbúðin, fræðslurýmið og Krónikan eru opin eins og venjulega.</description>
+      <ns0:encoded>
+&lt;p&gt;Þessa dagana er unnið að uppsetningu sýningarinnar &lt;em&gt;Skúlptúr skúlptúr performans &lt;/em&gt;í sýningarstjórn Jo Pawlowskx. Sýningarsalir á efri hæð eru lokaðir á meðan. Grunnsýning Gerðar Helgadóttur, safnbúðin, fræðslurýmið og Krónikan eru opin eins og venjulega.&lt;/p&gt;
 
 
 
 &lt;p&gt;&lt;/p&gt;
 </ns0:encoded>
-      <author>Harpa Grétarsdóttir (Harpa Grétarsdóttir)</author>
-      <guid isPermaLink="false">https://menning.kopavogur.is/?p=31002</guid>
+      <author>Þorgerður Þórhallsdóttir (Þorgerður Þórhallsdóttir)</author>
+      <guid isPermaLink="false">https://menning.kopavogur.is/?p=31056</guid>
       <category>news</category>
-      <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2025/10/IMG_6927.jpg" length="0" type="image/jpeg" />
-      <pubDate>Tue, 28 Oct 2025 13:34:53 +0000</pubDate>
-      <media:content url="https://menning.kopavogur.is/wp-content/uploads/2025/10/IMG_6927.jpg" medium="image" type="image/jpeg" width="600" height="400" />
+      <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2025/11/Gerdarsafn.-Mynd-Axel-Sigurdsson.jpg" length="0" type="image/jpeg" />
+      <pubDate>Mon, 03 Nov 2025 15:01:09 +0000</pubDate>
+      <media:content url="https://menning.kopavogur.is/wp-content/uploads/2025/11/Gerdarsafn.-Mynd-Axel-Sigurdsson.jpg" medium="image" type="image/jpeg" width="600" height="400" />
+      <dc:creator>Þorgerður Þórhallsdóttir</dc:creator>
+    </item>
+    <item>
+      <title>Kvennakraftur í Kópavogi</title>
+      <link>https://menning.kopavogur.is/2025/11/05/kvennakraftur-i-kopavogi/</link>
+      <description>Í tilefni af kvennafrídegi föstudaginn 24. október fór fram málþing á Bókasafni Kópavogs til heiðurs þremur kjarnakonum sem bjuggu og unnu í Kópavogi. Allar voru þær frumkvöðlar og ruddu brautina fyrir komandi kynslóðir. Fundarstjórn var í höndum Arndísar Þórarinsdóttur, rithöfunds. Var málþingið einkar vel sótt og erindin um þessa kvenskörunga fróðleg og valdeflandi. Ásta Sigurðardóttir […]</description>
+      <ns0:encoded>
+&lt;div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-28f84493 wp-block-columns-is-layout-flex"&gt;
+&lt;div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"&gt;
+&lt;p&gt;Í tilefni af kvennafrídegi föstudaginn 24. október fór fram málþing á Bókasafni Kópavogs til heiðurs þremur kjarnakonum sem bjuggu og unnu í Kópavogi. Allar voru þær frumkvöðlar og ruddu brautina fyrir komandi kynslóðir.&lt;/p&gt;
+
+
+
+&lt;ul class="wp-block-list"&gt;
+&lt;li&gt;Hulda Dóra Jakobsdóttir, fyrsti kvenkyns bæjarstjóri á Íslandi.&lt;/li&gt;
+
+
+
+&lt;li&gt;Gerður Helgadóttir, frumkvöðull í höggmyndalist og þrívíðri abstrakt.&lt;/li&gt;
+
+
+
+&lt;li&gt;Ásta Sigurðardóttir, rithöfundur og myndlistarkona.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+&lt;p&gt;Fundarstjórn var í höndum Arndísar Þórarinsdóttur, rithöfunds. Var málþingið einkar vel sótt og erindin um þessa kvenskörunga fróðleg og valdeflandi.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Ásta Sigurðardóttir&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;Ásta Sigurðardóttir var rithöfundur sem bjó og starfaði í Kópavogi. Vera Sölvadóttir flutti erindi um hana, en Vera hefur m.a. fjallað um Ástu í tveimur útvarpsþáttum og sökkt sér djúpt í sögu þessarar merku konu. &lt;/p&gt;
+
+
+
+&lt;p&gt;Ásta var brautryðjandi í bókmenntum, en hún vakti strax athygli þegar fyrsta smásaga hennar, &lt;em&gt;„Frá sunnudagskvöldi til mánudagsmorguns“&lt;/em&gt;, birtist í tímaritinu &lt;em&gt;Líf og list &lt;/em&gt;árið 1951. Sagan var frískandi og ögrandi — sögð frá sjónarhorni ungrar konu sem hefur varið kvöldinu í drykkju í miðbæ Reykjavíkur og endar ein, illa haldin og brotin.&lt;/p&gt;
+
+
+
+&lt;p&gt;Þetta var sprengja í íslenskri bókmenntahefð. Sagan var eins og högg í andlitið fyrir marga lesendur:&lt;br&gt;-Hún sýndi ófegrandi, hráa lýsingu á borgarlífinu í Reykjavík – eitthvað sem var sjaldgæft í íslenskum bókmenntum fram að því. -Konan í sögunni var ekki “hrein” eða “dygg” kona, heldur flókin, brotin og mannleg – það var nánast fordæmalaust. -Margir töldu söguna dónalega, siðlausa eða klámfengna á þeim tíma.&lt;/p&gt;
+
+
+
+&lt;p&gt;Hún opnaði dyr fyrir fleiri persónulegar og óhefðbundnar kvenraddir í skáldskap. Ásta varð brautryðjandi í því að skrifa um konur sem lifa utan við hefðbundin gildi – og sýndi að slíkar sögur höfðu gildi og vægi.&lt;/p&gt;
+
+
+
+&lt;p&gt;Áður en orðið &lt;em&gt;femínismi &lt;/em&gt;var almennt notað hér á landi, þá var Ásta að skrifa sögur sem fjölluðu að vissu leyti um kúgun kvenna. Hún sýndi ekki konur sem hetjur eða fórnarlömb — heldur sem flóknar manneskjur, sem urðu fyrir höfnun, ofbeldi og vonbrigðum. Það má segja að hún hafi ekki bara verið á undan sinni samtíð — hún hafi verið í átökum við hana.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Hulda Dóra Jakobsdóttir&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;Hulda var fyrsti kvenkyns bæjarstjóri á Íslandi, einmitt í Kópavogi.&lt;/p&gt;
+
+
+
+&lt;p&gt;Dætradætur hennar, þær Elín Smáradóttir, Hanna Styrmisdóttir og Hulda Dóra Styrmisdóttir, fjölluðu um ömmu sína á persónulegum nótum, sem frumkvöðul, sem ömmu, sem bæjarstjóra. &lt;/p&gt;
+
+
+
+&lt;p&gt;Hulda settist að í Kópavogi 1940 ásamt manni sínum Finnboga Rúti Valdemarssyni og tveimur dætrum. Í Kópavogi var fátt til reiðu fyrir ungar barnafjölskyldur í leit að húsnæði. Ekki vatnsveita, vegir eða frárennsli, ekki almenningsamgöngur, ekki heldur skólar eða verslanir. Íbúarnir voru hins vegar kjarkmiklir og framtakssamir og áður en langt um leið varð til Framfarafélag Kópavogs – sem var framfaraafl án flokkslita.&lt;/p&gt;
+
+
+
+&lt;p&gt;1. janúar 1948 varð Kópavogshreppur til. Kvenfélag Kópavogs var stofnað 1950 og amma var formaður þess á árunum 1952-1954.&lt;/p&gt;
+&lt;/div&gt;
+
+
+
+&lt;div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow"&gt;
+&lt;p&gt;1955 varð Kópavogur svo kaupstaður, Finnbogi Rútur varð bæjarstjóri og Hulda formaður fræðsluráðs. Þá voru íbúar tæplega 4000. Þegar Hulda tók við sem bæjarstjóri 4. júní 1957 og varð formaður niðurjöfnunarnefndar sem sá um ákvörðun útsvars á fyrirtæki og einstaklinga og formaður byggingarnefndar bæjarins, hélt hún líka áfram sem formaður fræðsluráðs. Það var því alveg ljóst hvar áhugi hennar og hjarta lá því hún var í forystu fyrir skólamálum Kópavogs í alls 16 ár. Á þessum 16 árum hafði hún forystu um byggingu og mönnun barnaskólanna Kópavogsskóla og Kársnesskóla og gagnfræðaskólans Víghólaskóla.&lt;/p&gt;
+
+
+
+&lt;p&gt;Í bæjarstjóratíð sinni hélt Hulda áfram að renna traustum stoðum undir áframhaldandi framtíðarvöxt sveitarfélagsins auk þess að halda styrkum en mildum höndum um reksturinn. Félagsheimilið var vígt 1959, gagnfræðaskólinn 1960 og Kópavogskirkjan 1962. Þar var Hulda enn í forystu: hún gegndi hlutverki formanns sóknarnefndar í 15 ár og var því í forystu fyrir byggingu kirkjunnar.&lt;/p&gt;
+
+
+
+&lt;p&gt;Hulda Jakobsdóttir var stjórnmálakona, frumkvöðull og listunnandi sem hafði kjark og sýn til að leita til tveggja afar hæfra listakvenna starfandi erlendis um gerð stórra listaverka í opinberu rými og skapa með þeim nýja menningararfleifð í Kópavogi. Það voru þær áðurnefnd Gerður og Högna, en hún leitaði til Gerðar eftir steindum gluggum sem prýða Kópavogskirkju og Högnu arkitekts um byggingu sundlaugar Kópavogs, þótt það verk hafi ekki komist til framkvæmda í tíð Huldu sem bæjarstjóra.&lt;/p&gt;
+
+
+
+&lt;p&gt;&lt;strong&gt;Gerður Helgadóttir&lt;/strong&gt;&lt;/p&gt;
+
+
+
+&lt;p&gt;Gerðarsafn í Kópavogi er eina listasafn landsins sem er stofnað til heiðurs listakonu og flutti Brynja Sveinsdóttir, forstöðumaður Gerðarsafns erindi um Gerði Helgadóttur.&lt;/p&gt;
+
+
+
+&lt;p&gt;Gerður var afkastamikill listamaður og hlaut riddarakross hinnar íslensku fálkaorðu árið 1974 fyrir framlag sitt til íslenskrar myndlistar. Verk Gerðar voru í stöðugri þróun og mótuðust af breiðu áhugasviði hennar. Þau kraftmiklu verk sem hún vann á síðustu árum ævi sinnar marka nýtt tímabil í listsköpun hennar og veita innsýn í metnað hennar og stórhug. Gerður átti enn svo margt ógert þótt hún hefði innan við fimmtugt afrekað að vinna sér sess sem einn helsti myndhöggvari þjóðarinnar á 20. öld.&lt;/p&gt;
+
+
+
+&lt;p&gt;Gerður hefur nám við Handíðaskólann árið 1945 og sýnir hæfileika í mótun en höggmyndalist er ekki kennd við skólann.&lt;/p&gt;
+
+
+
+&lt;p&gt;1947 fer Gerður til Flórens og er fyrst íslenskra listamanna til að hefja nám þar. Megináherslur í námi Gerðar eru á mótun eftir lifandi fyrirmyndum, anatómíu og listasögu. Gerði finnst kennslan miðast of mikið við klassíska list og ekki næg áhersla lögð á nútímalist. Haustið 1949 heldur Gerður til Parísar, sem hefur sterkt aðdráttarafl á listamenn hvaðanæva að úr heiminum á þessum tíma og hefur nám í Académie de la Grande Chaumiére. Aðalkennari hennar er rússneski myndhöggvarinn Ossip Zadkine (1890-1967), en hann var einn af frumkvöðlum kúbísks skúlptúrs. Gerður heldur sína fyrstu einkasýningu í galleríinu Colette Allendy í París árið 1951 og sýnir þar einungis óhlutbundin verk. Á sjötta áratugnum er Gerður vel þekkt í framsæknum listakreðsum Parísar og fjalla gagnrýnendur um hana sem eina af stefnumótandi myndhöggvurum samtímans.&lt;/p&gt;
+
+
+
+&lt;p&gt;Gerður lærir tæknina við gluggagerð hjá Jean Barillet á verkstæðinu og vinnur sína fyrstu steindu glugga í kapelluna á Elliheimilinu Grund og í Hallgrímskirkju í Saurbæ á árunum 1955-1957. Hún sendir tillögur í hugmyndasamkeppni um gerð steindra glerglugga í Skálholtskirkju árið 1957 sem hún hlýtur fyrstu verðlaun fyrir ári síðar.&lt;/p&gt;
+
+
+
+&lt;p&gt;Gerður vinnur að fjölda verka í almenningsrými við upphaf áttunda áratugarins, þar á meðal stórri bronsmynd við fjölbýlishús í París og tveimur höggmyndum fyrir ráðhús Venray í Hollandi. Árið 1972 gerir Gerður tillögur að mósaíkmynd fyrir Tollstöðvarhúsið í Reykjavík. &lt;/p&gt;
+
+
+
+&lt;p&gt;Sama ár vinnur hún einnig að veggmyndum utan á fyrirtæki Gunnars Guðmundssonar á Sæbraut, altaristöﬂu fyrir Kópavogskirkju og leggur fram frumgerð að verki fyrir Listahátíð í Reykjavík. Gerður fer í krabbameinsmeðferð heima á Íslandi 1974 en heldur áfram að vinna að stórum verkum þrátt fyrir veikindin.Gerður andast úr krabbameini á Landspítalanum 17. maí 1975, aðeins 47 ára að aldri.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+
+
+&lt;figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex"&gt;
+&lt;figure class="wp-block-image size-large"&gt;&lt;img decoding="async" width="1024" height="748" data-id="31102" src="https://menning.kopavogur.is/wp-content/uploads/2025/11/Hulda-Dora-Jakobsdottir-1024x748.jpg" alt="" class="wp-image-31102" srcset="https://menning.kopavogur.is/wp-content/uploads/2025/11/Hulda-Dora-Jakobsdottir-1024x748.jpg 1024w, https://menning.kopavogur.is/wp-content/uploads/2025/11/Hulda-Dora-Jakobsdottir-300x219.jpg 300w, https://menning.kopavogur.is/wp-content/uploads/2025/11/Hulda-Dora-Jakobsdottir-768x561.jpg 768w, https://menning.kopavogur.is/wp-content/uploads/2025/11/Hulda-Dora-Jakobsdottir.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Hulda Dóra Jakobsdóttir&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img decoding="async" width="301" height="371" data-id="31104" src="https://menning.kopavogur.is/wp-content/uploads/2025/11/asta-sigurdardottir.jpg" alt="" class="wp-image-31104" srcset="https://menning.kopavogur.is/wp-content/uploads/2025/11/asta-sigurdardottir.jpg 301w, https://menning.kopavogur.is/wp-content/uploads/2025/11/asta-sigurdardottir-243x300.jpg 243w" sizes="(max-width: 301px) 100vw, 301px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Ásta Sigurðardóttir&lt;/figcaption&gt;&lt;/figure&gt;
+
+
+
+&lt;figure class="wp-block-image size-full"&gt;&lt;img loading="lazy" decoding="async" width="450" height="604" data-id="31108" src="https://menning.kopavogur.is/wp-content/uploads/2025/11/Gerdur-Helfadottir-2.webp" alt="" class="wp-image-31108" srcset="https://menning.kopavogur.is/wp-content/uploads/2025/11/Gerdur-Helfadottir-2.webp 450w, https://menning.kopavogur.is/wp-content/uploads/2025/11/Gerdur-Helfadottir-2-224x300.webp 224w" sizes="(max-width: 450px) 100vw, 450px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Gerður Helgadóttir&lt;/figcaption&gt;&lt;/figure&gt;
+&lt;/figure&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img loading="lazy" decoding="async" width="1024" height="473" src="https://menning.kopavogur.is/wp-content/uploads/2025/11/Media-40-1-1024x473.jpg" alt="" class="wp-image-31150" srcset="https://menning.kopavogur.is/wp-content/uploads/2025/11/Media-40-1-1024x473.jpg 1024w, https://menning.kopavogur.is/wp-content/uploads/2025/11/Media-40-1-300x139.jpg 300w, https://menning.kopavogur.is/wp-content/uploads/2025/11/Media-40-1-768x355.jpg 768w, https://menning.kopavogur.is/wp-content/uploads/2025/11/Media-40-1-1536x710.jpg 1536w, https://menning.kopavogur.is/wp-content/uploads/2025/11/Media-40-1.jpg 2000w" sizes="(max-width: 1024px) 100vw, 1024px" /&gt;&lt;figcaption class="wp-element-caption"&gt;Frá vinstri: Vera Sölvadóttir, Brynja Sveinsdóttir, Hanna Styrmisdóttir, Elín Smáradóttir, Hulda Dóra Styrmisdóttir&lt;/figcaption&gt;&lt;/figure&gt;
+</ns0:encoded>
+      <author>Harpa Grétarsdóttir (Harpa Grétarsdóttir)</author>
+      <guid isPermaLink="false">https://menning.kopavogur.is/?p=31101</guid>
+      <category>news</category>
+      <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2025/11/Media-40.jpg" length="0" type="image/jpeg" />
+      <pubDate>Wed, 05 Nov 2025 13:40:18 +0000</pubDate>
+      <media:content url="https://menning.kopavogur.is/wp-content/uploads/2025/11/Media-40.jpg" medium="image" type="image/jpeg" width="600" height="400" />
       <dc:creator>Harpa Grétarsdóttir</dc:creator>
+    </item>
+    <item>
+      <title>Bókalisti Kristínar Helgu</title>
+      <link>https://menning.kopavogur.is/2025/11/05/bokalisti-kristinar-helgu/</link>
+      <description>Leslyndi fór fram í dag fyrir fullu húsi og var það Kristín Helga Gunnarsdóttir sem leiddi gesti um ævintýraheim bókanna sem hún hefur lesið og hafa haft áhrif á hana. Bókunum skipti hún skilmerkilega niður í flokka og fengum við að kynnast Kristínu Helgu í gegnum sterka kvenkaraktera, breyskleika mannkyns og ástríðu fyrir náttúru, svo […]</description>
+      <ns0:encoded>
+&lt;p&gt;Leslyndi fór fram í dag fyrir fullu húsi og var það Kristín Helga Gunnarsdóttir sem leiddi gesti um ævintýraheim bókanna sem hún hefur lesið og hafa haft áhrif á hana. Bókunum skipti hún skilmerkilega niður í flokka og fengum við að kynnast Kristínu Helgu í gegnum sterka kvenkaraktera, breyskleika mannkyns og ástríðu fyrir náttúru, svo eitthvað sé nefnt.&lt;/p&gt;
+
+
+
+&lt;p&gt;Listinn góði: &lt;/p&gt;
+
+
+
+&lt;p&gt;ÆSKAN OG UPPELDIÐ:&lt;br&gt;Laxdæla&lt;br&gt;Hellismannasaga&lt;br&gt;Þjóðsögur og munnmæli- Jón Þorkelsson&lt;br&gt;Grimms ævintýri- þýð. Theodor Árnason&lt;br&gt;Lína Langsokkur- Astrid Lindgren&lt;br&gt;Krummarnir -Thöger Birkeland&lt;br&gt;Litlu fiskarnir &amp;#8211; Erik Christian Haugaard&lt;br&gt;Mamma litla &amp;#8211; Frú E De Pressensé&lt;br&gt;Anna í Grænuhlíð- L.M. Montgomery&lt;br&gt;Barn náttúrunnar &amp;#8211; Halldór K Laxness&lt;/p&gt;
+
+
+
+&lt;p&gt;STELPURNAR -ÆVISÖGUR&lt;br&gt;Bíbí- Vigdís Grímsdóttir&lt;br&gt;Systa- Vigdís Grímsdóttir&lt;br&gt;Þuríður formaður- Brynjólfur Jónsson&lt;br&gt;Sagan af Þuríði formanni og Kambsránsmönnum- Brynjólfur Jónsson&lt;br&gt;Kambsmálið- Engu gleymt, ekkert fyrirgefið- Jón Hjartarson&lt;br&gt;Öxin, Agnes og Friðrik- Magnús Ólafsson á Sveinsstöðum&lt;br&gt;itlar byltingar- Kristín Helga Gunnarsdóttir&lt;/p&gt;
+
+
+
+&lt;p&gt;LJÓÐIN&lt;br&gt;Áfangar- Jón Helgason&lt;br&gt;Jóðl- Bragi Valdimar Skúlason&lt;br&gt;Söngur ljóðstafanna- Ragnar Ingi Aðalsteinsson&lt;/p&gt;
+
+
+
+&lt;p&gt;GRIMMD- HRYLLINGUR-HEIMSÓSÓMINN&lt;br&gt;Sapiens &amp;#8211; Mannkynssaga í stuttu máli- Yuval Noah Harari&lt;br&gt;Bóksalinn frá Kabúl- Asne Seierstad&lt;br&gt;Einn af okkur- Anders Breivik og voðaverkin í Noregi- Asne Seierstad&lt;br&gt;Veröld sem var &amp;#8211; Stefan Zweig- ( ein af heimsins bestu bókum)&lt;br&gt;Entitled &amp;#8211; rise and fall of the House of York- Andrew Lownie&lt;/p&gt;
+
+
+
+&lt;p&gt;LAUSNIRNAR&lt;br&gt;Draumalandið- Andri Snær Magnason&lt;br&gt;Spámaðurinn- Kahlil Gibran&lt;br&gt;How to be more tree &amp;#8211; Liz Marvin&lt;/p&gt;
+
+
+
+&lt;p&gt;SANNSÖGUR &lt;br&gt;Minnisbók- Bernskubók-Táningabók- Sigurður Pálsson&lt;br&gt;Þar sem vegurinn endar- Hrafn Jökulsson&lt;br&gt;Sögur úr Síðunni- Böðvar Guðmundsson&lt;/p&gt;
+
+
+
+&lt;p&gt;ÁHUGAMÁLIN&lt;br&gt;On writing- A Memoir of the Craft- Stephen King&lt;br&gt;Cicerone öngubækur &amp;#8211; gönguleiðir á Bretlandseyjum og í Evrópu&lt;br&gt;Svæðisbundin söguhefti af gönguslóðum. &lt;br&gt;Ferðabækur um náttúru og sögu&lt;/p&gt;
+
+
+
+&lt;figure class="wp-block-image size-large"&gt;&lt;img fetchpriority="high" decoding="async" width="768" height="1024" src="https://menning.kopavogur.is/wp-content/uploads/2025/11/Image-4-1-768x1024.jpg" alt="" class="wp-image-31121" srcset="https://menning.kopavogur.is/wp-content/uploads/2025/11/Image-4-1-768x1024.jpg 768w, https://menning.kopavogur.is/wp-content/uploads/2025/11/Image-4-1-225x300.jpg 225w, https://menning.kopavogur.is/wp-content/uploads/2025/11/Image-4-1-1152x1536.jpg 1152w, https://menning.kopavogur.is/wp-content/uploads/2025/11/Image-4-1-1536x2048.jpg 1536w" sizes="(max-width: 768px) 100vw, 768px" /&gt;&lt;/figure&gt;
+</ns0:encoded>
+      <author>Harpa Grétarsdóttir (Harpa Grétarsdóttir)</author>
+      <guid isPermaLink="false">https://menning.kopavogur.is/?p=31117</guid>
+      <category>news</category>
+      <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2025/11/Image-4.jpg" length="0" type="image/jpeg" />
+      <pubDate>Wed, 05 Nov 2025 18:22:07 +0000</pubDate>
+      <media:content url="https://menning.kopavogur.is/wp-content/uploads/2025/11/Image-4.jpg" medium="image" type="image/jpeg" width="600" height="400" />
+      <dc:creator>Harpa Grétarsdóttir</dc:creator>
+    </item>
+    <item>
+      <title>KAKÓ – JÓL Jólatónleikar Karlakórs Kópavogs</title>
+      <link>https://menning.kopavogur.is/2025/11/07/kako-jol-jolatonleikar-karlakors-kopavogs/</link>
+      <description>Hinir árlegu jólatónleikar Karlakórs Kópavogs verða haldnir í Digraneskirkju laugardaginn 6.desember og sunnudaginn 7. desember kl. 15. Líkt og undanfarin ár mun Skólakór Kársness syngja inn jólin með karlakórnum en sérstakur gestur er Vala Guðnadóttir, söng- og leikkona. Að loknum tónleikum verður gestum boðið upp á heitt kakó og ljúffengar piparkökur. Aðrir einsöngvarar eru: Garðar […]</description>
+      <ns0:encoded>
+&lt;p&gt;Hinir árlegu jólatónleikar Karlakórs Kópavogs verða haldnir í Digraneskirkju laugardaginn 6.desember og sunnudaginn 7. desember kl. 15.&lt;/p&gt;
+
+
+
+&lt;p&gt;Líkt og undanfarin ár mun Skólakór Kársness syngja inn jólin með karlakórnum en sérstakur gestur er Vala Guðnadóttir, söng- og leikkona.&lt;/p&gt;
+
+
+
+&lt;p&gt;Að loknum tónleikum verður gestum boðið upp á heitt kakó og ljúffengar piparkökur.&lt;/p&gt;
+
+
+
+&lt;p&gt;Aðrir einsöngvarar eru: Garðar Eggertsson, Jón Marteinn Gunnlaugsson og Ólafur M. Magnússon.&lt;/p&gt;
+
+
+
+&lt;p&gt;Stjórnandi Karlakórs Kópavogs: Sigurður Helgi&lt;/p&gt;
+
+
+
+&lt;p&gt;Stjórnandi Skólakórs Kársness: Álfheiður Björgvinsdóttir&lt;/p&gt;
+
+
+
+&lt;p&gt;Píanóleikari: Hrönn Þráinsdóttir&lt;/p&gt;
+
+
+
+&lt;p&gt;Orgelleikari: Kristján Hrannar Pálsson&lt;/p&gt;
+
+
+
+&lt;p&gt;Miðasala er hjá kórfélögum og á &lt;strong&gt;&lt;a href="https://tix.is/event/20636/kako-jol-jolatonleikar-karlakors-kopavogs" target="_blank" rel="noreferrer noopener"&gt;Tix.is.&lt;/a&gt;&lt;/strong&gt;&lt;br&gt;Miðaverð: 5000 fyrir fullorðna og 2000 fyrir börn yngri en 12 ára.&lt;/p&gt;
+</ns0:encoded>
+      <author>Vigdís Másdóttir (Vigdís Másdóttir)</author>
+      <guid isPermaLink="false">https://menning.kopavogur.is/?p=31144</guid>
+      <category>news</category>
+      <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2025/11/jolatonleikar2.jpg" length="0" type="image/jpeg" />
+      <pubDate>Fri, 07 Nov 2025 14:24:02 +0000</pubDate>
+      <media:content url="https://menning.kopavogur.is/wp-content/uploads/2025/11/jolatonleikar2.jpg" medium="image" type="image/jpeg" width="600" height="400" />
+      <dc:creator>Vigdís Másdóttir</dc:creator>
     </item>
   </channel>
 </rss>

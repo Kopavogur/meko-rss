@@ -1,237 +1,344 @@
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:ns0="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
-    <title>MEKÓ - Events</title>
+    <title>MEKÓ - Viðburðir</title>
     <link>https://menning.kopavogur.is/</link>
-    <description>Menning í Kópavogi - nýjustu fréttir og viðburðir  (events only)</description>
+    <description>Menning í Kópavogi - nýjustu fréttir og viðburðir  (viðburðir)</description>
     <category>Menning</category>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Wed, 29 Oct 2025 12:20:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Nov 2025 09:35:20 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
-      <title>Skrímslaratleikur</title>
-      <link>https://menning.kopavogur.is/event/skrimslaratleikur/</link>
-      <description>Í tilefni af hrekkjavökunni verður skrímslaratleikur á bókasafninu.
+      <title>Söngleikjastælar</title>
+      <link>https://menning.kopavogur.is/event/songleikjastaelar/</link>
+      <description>Vegna fjölda áskoranna munu Bjarni Snæbjörns og Sigga Eyrún snúa aftur í Salinn með tónleikaröðina SÖNGLEIKJASTÆLA. Tónleikaröðin sló í gegn í fyrra og er óður til söngleikjanna þar sem ný og gömul söngleikjatónlist fær að njóta sín í meðförum reyndra söng-leikara ásamt hljómsveit.
 
-Ratleikurinn verður bæði á aðalsafni í Hamraborg 6a og Lindasafni í Núpalind 7.
+Að þessu sinni verða þrennir tónleikar sem teygja sig yfir allan veturinn þar sem hverjir tónleikar eru með ólíka nálgun á formið. 
 
-Kíktu við og finndu íslensku skrímslin sem falin eru á safninu, finndu leyniorðið og fáðu verðlaun.
+2. nóvember: Nýstirnið Salka Gústafsdóttir og þjóðargersemin Jóhann Sigurðarson koma sem gestasöngvarar og flytja sín uppáhalds söngleikjalög.7. febrúar: Sprúðlandi fjölskyldutónleikar um miðjan dag þar sem börn á öllum aldri fá að syngja með.25. apríl: Sprengju-tónleikar með Söngleikjakórnum Viðlag. 
 
-Taktu þátt ef þú þorir!</description>
+SMELLTU HÉR TIL AÐ KAUPA ÁSKRIFT Á ALLA ÞRJÁ TÓNLEIKANA Á EINSTÖKU TILBOÐI
+
+Sigga Eyrún og Bjarni Snæbjörnsson eru ástríðufullir söng-leikarar. Samstarf þeirra hófst á Reykjavík Pride árið 2008 með söngleikjaparinu Viggó og Víólettu. Síðan þá hafa þau lagt hjarta og sál í söngleikjaformið og skemmt landanum á sviðum leikhúsanna, á árshátíðum, í afmælum og víðar. Meðal söngleikja sem þau hafa tekið þátt í eru: Vesalingarnir, Mary Poppins, Kardemommubærinn, Sem á himni, Slá í gegn, Ronja Ræningjadóttir, Jesus Christ Superstar, Frost og Góðan daginn, faggi. 
+
+Hljómsveitin er sem fyrr skipuð okkar fremsta tónlistarfólki:
+
+Karl Olgeirsson: hljómsveitarstjóri spilar á píanó, hljómborð, harmonikku o.fl.Svanhildur Lóa Bergsveinsdóttir á trommur/slagverkAndri Ólafsson á bassa</description>
       <ns0:encoded>&lt;!-- wp:paragraph --&gt;
-&lt;p&gt;Í tilefni af hrekkjavökunni verður skrímslaratleikur á bókasafninu.&lt;/p&gt;
+&lt;p&gt;Vegna fjölda áskoranna munu Bjarni Snæbjörns og Sigga Eyrún snúa aftur í Salinn með tónleikaröðina SÖNGLEIKJASTÆLA. Tónleikaröðin sló í gegn í fyrra og er óður til söngleikjanna þar sem ný og gömul söngleikjatónlist fær að njóta sín í meðförum reyndra söng-leikara ásamt hljómsveit.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
 
 &lt;!-- wp:paragraph --&gt;
-&lt;p&gt;Ratleikurinn verður bæði á aðalsafni í Hamraborg 6a og Lindasafni í Núpalind 7.&lt;/p&gt;
+&lt;p&gt;Að þessu sinni verða þrennir tónleikar sem teygja sig yfir allan veturinn þar sem hverjir tónleikar eru með ólíka nálgun á formið.&amp;nbsp;&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
 
 &lt;!-- wp:paragraph --&gt;
-&lt;p&gt;Kíktu við og finndu íslensku skrímslin sem falin eru á safninu, finndu leyniorðið og fáðu verðlaun.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://salurinn.kopavogur.is/event/songleikjastaelar-salka-gustafsdottir-johann-sigurdarson/"&gt;&lt;strong&gt;2. nóvember:&amp;nbsp;&lt;/strong&gt;Nýstirnið Salka Gústafsdóttir og þjóðargersemin Jóhann Sigurðarson koma sem gestasöngvarar og flytja sín uppáhalds söngleikjalög.&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;a href="https://salurinn.kopavogur.is/event/songleikjastaelar-fjolskyldutonleikar/"&gt;&lt;strong&gt;7. febrúar:&lt;/strong&gt;&amp;nbsp;Sprúðlandi fjölskyldutónleikar um miðjan dag þar sem börn á öllum aldri fá að syngja með.&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;a href="https://salurinn.kopavogur.is/event/songleikjastaelar-vidlag/"&gt;&lt;strong&gt;25. apríl:&lt;/strong&gt;&amp;nbsp;Sprengju-tónleikar með Söngleikjakórnum Viðlag.&amp;nbsp;&lt;/a&gt;&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
 
 &lt;!-- wp:paragraph --&gt;
-&lt;p&gt;Taktu þátt ef þú þorir!&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://tix.is/is/salurinn/buyingflow/subscription/549/" target="_blank" rel="noreferrer noopener"&gt;SMELLTU HÉR TIL AÐ KAUPA ÁSKRIFT Á ALLA ÞRJÁ TÓNLEIKANA Á EINSTÖKU TILBOÐI&lt;/a&gt;&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:separator --&gt;
+&lt;hr class="wp-block-separator has-alpha-channel-opacity"/&gt;
+&lt;!-- /wp:separator --&gt;
 
 &lt;!-- wp:paragraph --&gt;
 &lt;p&gt;&lt;/p&gt;
-&lt;!-- /wp:paragraph --&gt;</ns0:encoded>
-      <author>Harpa Grétarsdóttir (Harpa Grétarsdóttir)</author>
-      <guid isPermaLink="false">30763</guid>
-      <category>event</category>
-      <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2025/10/IMG_2891.jpg" length="0" type="image/jpeg" />
-      <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
-      <media:content url="https://menning.kopavogur.is/wp-content/uploads/2025/10/IMG_2891.jpg" medium="image" type="image/jpeg" width="600" height="400" />
-      <dc:creator>Harpa Grétarsdóttir</dc:creator>
-    </item>
-    <item>
-      <title>Skiptimarkaður fyrir hrekkjavökubúninga</title>
-      <link>https://menning.kopavogur.is/event/skiptimarkadur-fyrir-hrekkjavokubuninga-3/</link>
-      <description>Verið velkomin á búningaskiptimarkað á hrekkjavökunni! 
-
-Á aðalsafni verður hægt að skiptast á hrekkjavökubúningum í öllum stærðum og gerðum.
-
-Gefðu gömlum búningum framhaldslíf og/eða taktu með þér annan í staðinn.</description>
-      <ns0:encoded>&lt;!-- wp:columns --&gt;
-&lt;div class="wp-block-columns"&gt;&lt;!-- wp:column --&gt;
-&lt;div class="wp-block-column"&gt;&lt;!-- wp:paragraph --&gt;
-&lt;p&gt;Verið velkomin á búningaskiptimarkað á hrekkjavökunni!&amp;nbsp;&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
 
-&lt;!-- wp:paragraph --&gt;
-&lt;p&gt;Á aðalsafni verður hægt að skiptast á hrekkjavökubúningum í öllum stærðum og gerðum.&lt;/p&gt;
-&lt;!-- /wp:paragraph --&gt;&lt;/div&gt;
+&lt;!-- wp:columns --&gt;
+&lt;div class="wp-block-columns"&gt;&lt;!-- wp:column --&gt;
+&lt;div class="wp-block-column"&gt;&lt;!-- wp:image {"id":29677,"sizeSlug":"large","linkDestination":"none"} --&gt;
+&lt;figure class="wp-block-image size-large"&gt;&lt;img src="https://menning.kopavogur.is/wp-content/uploads/2025/08/bjarnisigga_SundayWhite-9-683x1024.jpg" alt="" class="wp-image-29677"/&gt;&lt;/figure&gt;
+&lt;!-- /wp:image --&gt;&lt;/div&gt;
 &lt;!-- /wp:column --&gt;
 
 &lt;!-- wp:column --&gt;
 &lt;div class="wp-block-column"&gt;&lt;!-- wp:paragraph --&gt;
-&lt;p&gt;Gefðu gömlum búningum framhaldslíf og/eða taktu með þér annan í staðinn.&lt;/p&gt;
+&lt;p&gt;Sigga Eyrún og Bjarni Snæbjörnsson eru ástríðufullir söng-leikarar. Samstarf þeirra hófst á Reykjavík Pride árið 2008 með söngleikjaparinu Viggó og Víólettu. Síðan þá hafa þau lagt hjarta og sál í söngleikjaformið og skemmt landanum á sviðum leikhúsanna, á árshátíðum, í afmælum og víðar. Meðal söngleikja sem þau hafa tekið þátt í eru: Vesalingarnir, Mary Poppins, Kardemommubærinn, Sem á himni, Slá í gegn, Ronja Ræningjadóttir, Jesus Christ Superstar, Frost og Góðan daginn, faggi.&amp;nbsp;&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;&lt;/div&gt;
+&lt;!-- /wp:column --&gt;
+
+&lt;!-- wp:column --&gt;
+&lt;div class="wp-block-column"&gt;&lt;!-- wp:image {"id":29679,"sizeSlug":"large","linkDestination":"none"} --&gt;
+&lt;figure class="wp-block-image size-large"&gt;&lt;img src="https://menning.kopavogur.is/wp-content/uploads/2025/08/bjarnisigga_SundayWhite-15-683x1024.jpg" alt="" class="wp-image-29679"/&gt;&lt;/figure&gt;
+&lt;!-- /wp:image --&gt;&lt;/div&gt;
 &lt;!-- /wp:column --&gt;&lt;/div&gt;
 &lt;!-- /wp:columns --&gt;
 
 &lt;!-- wp:paragraph --&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;!-- /wp:paragraph --&gt;</ns0:encoded>
-      <author>Harpa Grétarsdóttir (Harpa Grétarsdóttir)</author>
-      <guid isPermaLink="false">30757</guid>
-      <category>event</category>
-      <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2024/02/oskudagur-scaled.jpg" length="0" type="image/jpeg" />
-      <pubDate>Thu, 23 Oct 2025 00:00:00 +0000</pubDate>
-      <media:content url="https://menning.kopavogur.is/wp-content/uploads/2024/02/oskudagur-scaled.jpg" medium="image" type="image/jpeg" width="600" height="400" />
-      <dc:creator>Harpa Grétarsdóttir</dc:creator>
-    </item>
-    <item>
-      <title>Draugasögustund fyrir börn</title>
-      <link>https://menning.kopavogur.is/event/draugasogustund-fyrir-born-2/</link>
-      <description>Í tilefni af Hrekkjavökunni ætlum við að vera með skemmtilega draugasögustund fyrir krakka á Bókasafni Kópavogs.
-
-Frítt inn og öll velkomin meðan húsrúm leyfir.
-
-Eyrún Ósk Jónsdóttir mun lesa draugasögur úr íslensku þjóðsögunum og vera með smá fræðslu um hvernig hægt er að sigrast á íslensku draugunum samkvæmt þjóðtrúnni. Vissir þú t.d. að prump getur fælt í burtu íslenska drauga? Og að hægt er að plata þá upp úr skónum ef maður er nógu snjall?</description>
-      <ns0:encoded>&lt;!-- wp:columns --&gt;
-&lt;div class="wp-block-columns"&gt;&lt;!-- wp:column --&gt;
-&lt;div class="wp-block-column"&gt;&lt;!-- wp:paragraph --&gt;
-&lt;p&gt;Í tilefni af Hrekkjavökunni ætlum við að vera með skemmtilega draugasögustund fyrir krakka á Bókasafni Kópavogs.&lt;/p&gt;
+&lt;p&gt;Hljómsveitin er sem fyrr skipuð okkar fremsta tónlistarfólki:&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
 
 &lt;!-- wp:paragraph --&gt;
-&lt;p&gt;Frítt inn og öll velkomin meðan húsrúm leyfir.&lt;/p&gt;
+&lt;p&gt;Karl Olgeirsson: hljómsveitarstjóri spilar á píanó, hljómborð, harmonikku o.fl.&lt;br&gt;Svanhildur Lóa Bergsveinsdóttir á trommur/slagverk&lt;br&gt;Andri Ólafsson á bassa&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:image {"id":29681,"sizeSlug":"large","linkDestination":"none"} --&gt;
+&lt;figure class="wp-block-image size-large"&gt;&lt;img src="https://menning.kopavogur.is/wp-content/uploads/2025/08/bjarnisigga_SundayWhite-1024x683.jpg" alt="" class="wp-image-29681"/&gt;&lt;/figure&gt;
+&lt;!-- /wp:image --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;</ns0:encoded>
+      <author>Axel Ingi Árnason (Axel Ingi Árnason)</author>
+      <guid isPermaLink="false">29784</guid>
+      <category>event</category>
+      <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2025/08/1920x1080-cover-tix-fb-almenn-mynd-50.jpg" length="0" type="image/jpeg" />
+      <pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate>
+      <media:content url="https://menning.kopavogur.is/wp-content/uploads/2025/08/1920x1080-cover-tix-fb-almenn-mynd-50.jpg" medium="image" type="image/jpeg" width="600" height="400" />
+      <dc:creator>Axel Ingi Árnason</dc:creator>
+    </item>
+    <item>
+      <title>Bróderíklúbburinn á Lindasafni</title>
+      <link>https://menning.kopavogur.is/event/broderiklubburinn-a-lindasafni-35/</link>
+      <description>Ertu byrjandi eða með áralanga reynslu af bróderíi? Viltu kannski rifja upp gamla takta og hitta aðra sem deila sama áhuga?
+
+Þá gæti Bróderíklúbburinn hentað fyrir þig.
+
+Bróderíklúbburinn hittist á mánudögum á Lindasafni í Núpalind 7 kl. 14:00.
+
+Öll velkomin og heitt á könnunni.</description>
+      <ns0:encoded>&lt;!-- wp:columns --&gt;
+&lt;div class="wp-block-columns"&gt;&lt;!-- wp:column --&gt;
+&lt;div class="wp-block-column"&gt;&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Ertu byrjandi eða með áralanga reynslu af bróderíi? Viltu kannski rifja upp gamla takta og hitta aðra sem deila sama áhuga?&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Þá gæti Bróderíklúbburinn hentað fyrir þig.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;&lt;/div&gt;
 &lt;!-- /wp:column --&gt;
 
 &lt;!-- wp:column --&gt;
 &lt;div class="wp-block-column"&gt;&lt;!-- wp:paragraph --&gt;
-&lt;p&gt;Eyrún Ósk Jónsdóttir mun lesa draugasögur úr íslensku þjóðsögunum og vera með smá fræðslu um hvernig hægt er að sigrast á íslensku draugunum samkvæmt þjóðtrúnni. Vissir þú t.d. að prump getur fælt í burtu íslenska drauga? Og að hægt er að plata þá upp úr skónum ef maður er nógu snjall? &lt;/p&gt;
-&lt;!-- /wp:paragraph --&gt;&lt;/div&gt;
-&lt;!-- /wp:column --&gt;&lt;/div&gt;
-&lt;!-- /wp:columns --&gt;
-
-&lt;!-- wp:paragraph --&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;!-- /wp:paragraph --&gt;</ns0:encoded>
-      <author>Harpa Grétarsdóttir (Harpa Grétarsdóttir)</author>
-      <guid isPermaLink="false">30879</guid>
-      <category>event</category>
-      <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2024/10/draugasogustund-1920-x-1080.jpg" length="0" type="image/jpeg" />
-      <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
-      <media:content url="https://menning.kopavogur.is/wp-content/uploads/2024/10/draugasogustund-1920-x-1080.jpg" medium="image" type="image/jpeg" width="600" height="400" />
-      <dc:creator>Harpa Grétarsdóttir</dc:creator>
-    </item>
-    <item>
-      <title>Algóritminn - Af hverju sjáum við bara það sem við viljum sjá?</title>
-      <link>https://menning.kopavogur.is/event/algoritminn-af-hverju-sjaum-vid-bara-thad-sem-vid-sem-vid-viljum-sja/</link>
-      <description>Tryggvi Freyr Elínarson heldur spennandi fyrirlestur um algóritmann. Af hverju sjáum við bara fréttir og umfjallanir sem við erum sammála? 
-
--Hvernig ýtir algóritminn undir skautun í umræðunni. -Hvernig fáum við heilstæða mynd af málum í heimi sem er stjórnað af algóritmanum? -Hvernig stýrir algóritminn okkur inn í bergmálshelli, þar sem allir virðast sammála okkar skoðunum?
-
-Frítt inn og öll velkomin meðan húsrúm leyfir. 
-
-Erindið er hluti af verkefninu ,,Bókasafnið gegn upplýsingaóreiðu“ sem er styrkt af Bókasafnasjóði.</description>
-      <ns0:encoded>&lt;!-- wp:columns --&gt;
-&lt;div class="wp-block-columns"&gt;&lt;!-- wp:column --&gt;
-&lt;div class="wp-block-column"&gt;&lt;!-- wp:paragraph --&gt;
-&lt;p&gt;Tryggvi Freyr Elínarson heldur spennandi fyrirlestur um algóritmann. Af hverju sjáum við bara fréttir og umfjallanir sem við erum sammála?&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Bróderíklúbburinn hittist á mánudögum á Lindasafni í Núpalind 7 kl. 14:00.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
 
 &lt;!-- wp:paragraph --&gt;
-&lt;p&gt;-Hvernig ýtir algóritminn undir skautun í umræðunni. &lt;br&gt;-Hvernig fáum við heilstæða mynd af málum í heimi sem er stjórnað af algóritmanum? &lt;br&gt;-Hvernig stýrir algóritminn okkur inn í bergmálshelli, þar sem allir virðast sammála okkar skoðunum?&lt;/p&gt;
-&lt;!-- /wp:paragraph --&gt;&lt;/div&gt;
-&lt;!-- /wp:column --&gt;
-
-&lt;!-- wp:column --&gt;
-&lt;div class="wp-block-column"&gt;&lt;!-- wp:paragraph --&gt;
-&lt;p&gt;Frítt inn og öll velkomin meðan húsrúm leyfir. &lt;/p&gt;
-&lt;!-- /wp:paragraph --&gt;
-
-&lt;!-- wp:paragraph --&gt;
-&lt;p&gt;Erindið er hluti af verkefninu ,,Bókasafnið gegn upplýsingaóreiðu“ sem er styrkt af Bókasafnasjóði.&lt;/p&gt;
+&lt;p&gt;Öll velkomin og heitt á könnunni.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;&lt;/div&gt;
 &lt;!-- /wp:column --&gt;&lt;/div&gt;
 &lt;!-- /wp:columns --&gt;</ns0:encoded>
       <author>Harpa Grétarsdóttir (Harpa Grétarsdóttir)</author>
-      <guid isPermaLink="false">30303</guid>
+      <guid isPermaLink="false">30345</guid>
       <category>event</category>
-      <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2025/09/Bokasafnid-gegn-upplysingaoreidu-vidburdarmyndir6.jpg" length="0" type="image/jpeg" />
-      <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
-      <media:content url="https://menning.kopavogur.is/wp-content/uploads/2025/09/Bokasafnid-gegn-upplysingaoreidu-vidburdarmyndir6.jpg" medium="image" type="image/jpeg" width="600" height="400" />
+      <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2025/01/broderi-scaled.jpg" length="0" type="image/jpeg" />
+      <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
+      <media:content url="https://menning.kopavogur.is/wp-content/uploads/2025/01/broderi-scaled.jpg" medium="image" type="image/jpeg" width="600" height="400" />
       <dc:creator>Harpa Grétarsdóttir</dc:creator>
     </item>
     <item>
-      <title>Frumbýlisár á Kársnesi</title>
-      <link>https://menning.kopavogur.is/event/frumbylisar-a-karsnesi/</link>
-      <description>Frímann Ingi Helgason flutti sjö ára gamall í Kópavoginn með fjölskyldu sinni, á síðasta hreppsárinu haustið 1954.
+      <title>Hannyrðaklúbburinn Garn og gaman</title>
+      <link>https://menning.kopavogur.is/event/hannyrdaklubburinn-garn-og-gaman-92/</link>
+      <description>Hannyrðaklúbburinn Garn og gaman hittist alla þriðjudaga á 2. hæð aðalsafns kl. 10. Heitt á könnunni og öll velkomin!
 
-Hann rifjar upp í léttum dúr, umhverfi og aðstæður sem mættu ungu fjölskyldunni. 
+Nánari upplýsingar veitir Gréta Björg Ólafsdóttir, gretabjorg@kopavogur.is
 
-Merk tímamót voru framundan, því Kópavogur varð kaupstaður hálfu ári síðar.</description>
+Fylgist með í Facebook-hópnum Hannyrðaklúbburinn Garn og gaman | Bókasafn Kópavogs</description>
       <ns0:encoded>&lt;!-- wp:paragraph --&gt;
-&lt;p&gt;Frímann Ingi Helgason flutti sjö ára gamall í Kópavoginn með fjölskyldu sinni, á síðasta hreppsárinu haustið 1954.&lt;/p&gt;
+&lt;p&gt;Hannyrðaklúbburinn Garn og gaman hittist alla þriðjudaga á 2. hæð aðalsafns kl. 10. &lt;br&gt;Heitt á könnunni og öll velkomin!&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
 
 &lt;!-- wp:paragraph --&gt;
-&lt;p&gt;Hann rifjar upp í léttum dúr, umhverfi og aðstæður sem mættu ungu fjölskyldunni. &lt;/p&gt;
+&lt;p&gt;Nánari upplýsingar veitir Gréta Björg Ólafsdóttir,&amp;nbsp;&lt;a href="mailto:gretabjorg@kopavogur.is"&gt;gretabjorg@kopavogur.is&lt;/a&gt;&lt;a href="mailto:gretabojorg@kopavogur.is"&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
 
 &lt;!-- wp:paragraph --&gt;
-&lt;p&gt;Merk tímamót voru framundan, því Kópavogur varð kaupstaður hálfu ári síðar.&lt;/p&gt;
-&lt;!-- /wp:paragraph --&gt;</ns0:encoded>
+&lt;p&gt;Fylgist með í Facebook-hópnum&amp;nbsp;&lt;a href="https://www.facebook.com/groups/1075790813841335" data-type="link" data-id="https://www.facebook.com/groups/1075790813841335"&gt;&lt;strong&gt;Hannyrðaklúbburinn Garn og gaman | Bókasafn Kópavogs&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:columns --&gt;
+&lt;div class="wp-block-columns"&gt;&lt;!-- wp:column --&gt;
+&lt;div class="wp-block-column"&gt;&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;&lt;/div&gt;
+&lt;!-- /wp:column --&gt;
+
+&lt;!-- wp:column --&gt;
+&lt;div class="wp-block-column"&gt;&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;&lt;/div&gt;
+&lt;!-- /wp:column --&gt;&lt;/div&gt;
+&lt;!-- /wp:columns --&gt;</ns0:encoded>
       <author>Harpa Grétarsdóttir (Harpa Grétarsdóttir)</author>
-      <guid isPermaLink="false">30017</guid>
+      <guid isPermaLink="false">28110</guid>
       <category>event</category>
-      <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2025/08/Midbaer-Kopavogs-1964.jpg" length="0" type="image/jpeg" />
-      <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
-      <media:content url="https://menning.kopavogur.is/wp-content/uploads/2025/08/Midbaer-Kopavogs-1964.jpg" medium="image" type="image/jpeg" width="600" height="400" />
+      <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2024/01/Prjonandi-hendur-med-raudar-neglur-scaled.jpeg" length="0" type="image/jpeg" />
+      <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
+      <media:content url="https://menning.kopavogur.is/wp-content/uploads/2024/01/Prjonandi-hendur-med-raudar-neglur-scaled.jpeg" medium="image" type="image/jpeg" width="600" height="400" />
       <dc:creator>Harpa Grétarsdóttir</dc:creator>
     </item>
     <item>
-      <title>Skynjunarsögustund</title>
-      <link>https://menning.kopavogur.is/event/skynjunarsogustund-2/</link>
-      <description>Opnar skynjunarsögustundir fara fram seinasta miðvikudag mánaðar kl. 16 í barnadeild aðalsafns í september, október og nóvember. 
+      <title>Hvað er flokkun?</title>
+      <link>https://menning.kopavogur.is/event/hvad-er-flokkun/</link>
+      <description>,,Hvað er" er erindaröð á vegum Náttúrufræðistofu Kópavogs. Sérfræðingar úr ýmsum áttum eru fengnir til að varpa ljósi á ólík hugtök og fyrirbæri og skýra þau út á mannamáli.
 
-Eyrún Ósk leikari og rithöfundur og Gréta Björg munu lesa sögur fyrir börnin, þar sem þær leggja áherslu á skynjun með hljóðum, leikmunum og leikrænum tilburðum. 
+Viðfangsefni þessa hádegiserindis er flokkun. Við munum við skoða hvernig er hægt að draga úr magni rusls sem við framleiðum, til hvers við erum að flokka ruslið okkar og hvað verður um allt ruslið. Fer þetta ekki allt í sömu holuna?
 
-Sögustundirnar eru öllum opnar meðan húsrúm leyfir og henta best börnum á aldrinum 0-5 ára. 
+Jóhannes Bjarki Urbancic er sérfræðingur í teymi hringrásarhagkerfis hjá Umhverfis- og orkustofnun. Sem þýðir að hans vinna felst í að minnka magnið af rusli sem við framleiðum, auka endurvinnslu, styðja við nýsköpun og passa að ruslið okkar fari í réttan farveg.
 
-Verið velkomin í notalega sögustund. 
+Langar þig að vita hvað verður um ruslið okkar? Þá er þetta viðburður fyrir þig!
 
-Skynjunarsögustundir eru partur af verkefninu Töfraheimur ævintýranna sem er styrkt af Barnamenningarsjóði.</description>
-      <ns0:encoded>&lt;!-- wp:paragraph --&gt;
-&lt;p&gt;Opnar skynjunarsögustundir fara fram seinasta miðvikudag mánaðar kl. 16 í barnadeild aðalsafns í september, október og nóvember. &lt;/p&gt;
+Erindið fer fram í Náttúrufræðistofu Kópavogs.
+
+Öll velkomin og aðgangur ókeypis.</description>
+      <ns0:encoded>&lt;!-- wp:columns --&gt;
+&lt;div class="wp-block-columns"&gt;&lt;!-- wp:column --&gt;
+&lt;div class="wp-block-column"&gt;&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;,,Hvað er" er erindaröð á vegum Náttúrufræðistofu Kópavogs. Sérfræðingar úr ýmsum áttum eru fengnir til að varpa ljósi á ólík hugtök og fyrirbæri og skýra þau út á mannamáli.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
 
 &lt;!-- wp:paragraph --&gt;
-&lt;p&gt;Eyrún Ósk leikari og rithöfundur og Gréta Björg munu lesa sögur fyrir börnin, þar sem þær leggja áherslu á skynjun&amp;nbsp;með hljóðum, leikmunum og leikrænum tilburðum. &lt;/p&gt;
+&lt;p&gt;Viðfangsefni þessa hádegiserindis er flokkun. Við munum við skoða hvernig er hægt að draga úr magni rusls sem við framleiðum, til hvers við erum að flokka ruslið okkar og hvað verður um allt ruslið. Fer þetta ekki allt í sömu holuna?&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;&lt;/div&gt;
+&lt;!-- /wp:column --&gt;
+
+&lt;!-- wp:column --&gt;
+&lt;div class="wp-block-column"&gt;&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Jóhannes Bjarki Urbancic er sérfræðingur í teymi hringrásarhagkerfis hjá Umhverfis- og orkustofnun. Sem þýðir að hans vinna felst í að minnka magnið af rusli sem við framleiðum, auka endurvinnslu, styðja við nýsköpun og passa að ruslið okkar fari í réttan farveg.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
 
 &lt;!-- wp:paragraph --&gt;
-&lt;p&gt;Sögustundirnar eru öllum opnar meðan húsrúm leyfir og henta best börnum á aldrinum 0-5 ára. &lt;/p&gt;
+&lt;p&gt;Langar þig að vita hvað verður um ruslið okkar? Þá er þetta viðburður fyrir þig!&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
 
 &lt;!-- wp:paragraph --&gt;
-&lt;p&gt;Verið velkomin í notalega sögustund. &lt;/p&gt;
+&lt;p&gt;Erindið fer fram í Náttúrufræðistofu Kópavogs.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
 
 &lt;!-- wp:paragraph --&gt;
-&lt;p&gt;Skynjunarsögustundir eru partur af verkefninu Töfraheimur ævintýranna sem er styrkt af Barnamenningarsjóði.&lt;br&gt;&lt;/p&gt;
-&lt;!-- /wp:paragraph --&gt;
+&lt;p&gt;Öll velkomin og aðgangur ókeypis.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;&lt;/div&gt;
+&lt;!-- /wp:column --&gt;&lt;/div&gt;
+&lt;!-- /wp:columns --&gt;
 
 &lt;!-- wp:paragraph --&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;</ns0:encoded>
       <author>Harpa Grétarsdóttir (Harpa Grétarsdóttir)</author>
-      <guid isPermaLink="false">29919</guid>
+      <guid isPermaLink="false">31023</guid>
       <category>event</category>
-      <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2025/08/Sogustund-Systa.jpg" length="0" type="image/jpeg" />
-      <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
-      <media:content url="https://menning.kopavogur.is/wp-content/uploads/2025/08/Sogustund-Systa.jpg" medium="image" type="image/jpeg" width="600" height="400" />
+      <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2025/10/Hvad-er-flokkun-Johannes-Bjarki-Urbancic-1920-x-1080-.jpg" length="0" type="image/jpeg" />
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      <media:content url="https://menning.kopavogur.is/wp-content/uploads/2025/10/Hvad-er-flokkun-Johannes-Bjarki-Urbancic-1920-x-1080-.jpg" medium="image" type="image/jpeg" width="600" height="400" />
+      <dc:creator>Harpa Grétarsdóttir</dc:creator>
+    </item>
+    <item>
+      <title>Sýningaropnun | Skúlptúr/skúlptúr/performans</title>
+      <link>https://menning.kopavogur.is/event/syningaropnun-skulptur-skulptur-performans/</link>
+      <description>Sýningin Skúlptúr/skúlptúr/performans verður opnuð við hátíðlega athöfn miðvikudaginn 12. nóvember kl. 18:00 í Gerðarsafni og öll eru velkomin að vera viðstödd.
+
+Sýningin hvílir á skilum – í titrandi rýmum á milli einnar tilveru og annarrar. Líf okkar er uppfullt af endalausum tilfærslum og breytingum – þöglum eða skyndilegum, lúmskum eða yfirgnæfandi. Augnablikið áður en augnaráð mætast, rýmið á milli líkama á dansgólfinu. Kyrrðin áður en sólin birtir upp svartnættið. Þögnin eftir að hafa yfirgefið herbergi fullt af fólki, og flöktið í skjá í myrkrinu. Róin eftir partýið, þegar hjartað slær enn ört en heimurinn virðist hægari. Titringurinn í hálsinum þegar þú ert að fara að segja það.
+
+Sýningin Skúlptúr/skúlptúr/performans kannar skörun og titring á milli höggmyndalistar og gjörningalistar þar sem skynjun, form og merking hliðrast. Skúlptúr ummyndast í gjörning; gjörningur líður yfir í mynd og hljóð; hljóð hliðrast í skúlptúr. Ekkert er statískt. Listafólk sýningarinnar eru Kristín Helga Ríkharðsdóttir, Styrmir Örn Guðmundsson, Regn Sólmundur Evu, Curro Rodriguez, Jasa Baka, Post Performance Blues Band (Álfrún Örnólfsdóttir, Saga Sigurðardóttir, Hrefna Lind Lárusdóttir), Mjólk (Hlín Gylfadóttir, Karlotta Blöndal, Unnar Örn Auðarson) og Hekla Dögg Jónsdóttir. Sýningarstjóri er Jo Pawlowskx.
+
+Sýningarröðin Skúlptúr/skúlptúr kannar skúlptúrinn í samtímanum og þróun þrívíðrar myndlistar, ekki einungis sem mikilvægur hluti listasögunnar heldur einnig sem hluti af lifandi sjónrænu tungumáli samtímalistarinnar. Sýningarröðin sækir í tilraunamennsku og framúrstefnu Gerðar Helgadóttur.
+
+Ljósmynd: Kristín Helga Ríkharðsdóttir, Bogi, 2025</description>
+      <ns0:encoded>&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Sýningin &lt;em&gt;Skúlptúr/skúlptúr/performans&lt;/em&gt; verður opnuð við hátíðlega athöfn miðvikudaginn 12. nóvember kl. 18:00 í Gerðarsafni og öll eru velkomin að vera viðstödd.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Sýningin hvílir á skilum – í titrandi rýmum á milli einnar tilveru og annarrar. Líf okkar er uppfullt af endalausum tilfærslum og breytingum – þöglum eða skyndilegum, lúmskum eða yfirgnæfandi. Augnablikið áður en augnaráð mætast, rýmið á milli líkama á dansgólfinu. Kyrrðin áður en sólin birtir upp svartnættið. Þögnin eftir að hafa yfirgefið herbergi fullt af fólki, og flöktið í skjá í myrkrinu. Róin eftir partýið, þegar hjartað slær enn ört en heimurinn virðist hægari. Titringurinn í hálsinum þegar þú ert að fara að segja það.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Sýningin&amp;nbsp;&lt;em&gt;Skúlptúr/skúlptúr/performans&lt;/em&gt;&amp;nbsp;kannar skörun og titring á milli höggmyndalistar og gjörningalistar þar sem skynjun, form og merking hliðrast. Skúlptúr ummyndast í gjörning; gjörningur líður yfir í mynd og hljóð; hljóð hliðrast í skúlptúr. Ekkert er statískt. Listafólk sýningarinnar eru Kristín Helga Ríkharðsdóttir, Styrmir Örn Guðmundsson, Regn Sólmundur Evu, Curro Rodriguez, Jasa Baka, Post Performance Blues Band (Álfrún Örnólfsdóttir, Saga Sigurðardóttir, Hrefna Lind Lárusdóttir), Mjólk (Hlín Gylfadóttir, Karlotta Blöndal, Unnar Örn Auðarson) og Hekla Dögg Jónsdóttir. Sýningarstjóri er Jo Pawlowskx.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Sýningarröðin&amp;nbsp;&lt;em&gt;Skúlptúr/skúlptúr&amp;nbsp;&lt;/em&gt;kannar skúlptúrinn í samtímanum og þróun þrívíðrar myndlistar, ekki einungis sem mikilvægur hluti listasögunnar heldur einnig sem hluti af lifandi sjónrænu tungumáli samtímalistarinnar. Sýningarröðin sækir í tilraunamennsku og framúrstefnu Gerðar Helgadóttur.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Ljósmynd: Kristín Helga Ríkharðsdóttir,&amp;nbsp;&lt;em&gt;Bogi&lt;/em&gt;, 2025&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;</ns0:encoded>
+      <author>Þorgerður Þórhallsdóttir (Þorgerður Þórhallsdóttir)</author>
+      <guid isPermaLink="false">31019</guid>
+      <category>event</category>
+      <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2025/10/3-.jpg" length="0" type="image/jpeg" />
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      <media:content url="https://menning.kopavogur.is/wp-content/uploads/2025/10/3-.jpg" medium="image" type="image/jpeg" width="600" height="400" />
+      <dc:creator>Þorgerður Þórhallsdóttir</dc:creator>
+    </item>
+    <item>
+      <title>Sögufélag Kópavogs | Myndgreining</title>
+      <link>https://menning.kopavogur.is/event/sogufelag-kopavogs-myndgreining-5/</link>
+      <description>Þekkirðu ljósmyndina?Myndgreining með Símoni Hjalta Sverrissyni.
+
+Sögufélag Kópavogs stendur fyrir myndgreiningarviðburðum sem opnir eru almenningi, þar sem tækifæri gefst til að bera kennsl á myndefni úr fórum Sögufélags Kópavogs. Leitast er við að svara spurningunum um það hverjir eru á myndinni, hvar myndin er tekin og hvenær. Oftar en ekki koma í kjölfarið fleiri upplýsingar og sögur sem auka enn á varðveislugildi myndanna.
+
+Ókeypis inn og öll velkomin.</description>
+      <ns0:encoded>&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Þekkirðu ljósmyndina?&lt;br&gt;Myndgreining með Símoni Hjalta Sverrissyni.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Sögufélag Kópavogs stendur fyrir myndgreiningarviðburðum sem opnir eru almenningi, þar sem tækifæri gefst til að bera kennsl á myndefni úr fórum Sögufélags Kópavogs. Leitast er við að svara spurningunum um það hverjir eru á myndinni, hvar myndin er tekin og hvenær. Oftar en ekki koma í kjölfarið fleiri upplýsingar og sögur sem auka enn á varðveislugildi myndanna.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Ókeypis inn og öll velkomin.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;</ns0:encoded>
+      <author>Harpa Grétarsdóttir (Harpa Grétarsdóttir)</author>
+      <guid isPermaLink="false">30023</guid>
+      <category>event</category>
+      <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2025/01/sogufelag-myndgreining.jpg" length="0" type="image/jpeg" />
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      <media:content url="https://menning.kopavogur.is/wp-content/uploads/2025/01/sogufelag-myndgreining.jpg" medium="image" type="image/jpeg" width="600" height="400" />
+      <dc:creator>Harpa Grétarsdóttir</dc:creator>
+    </item>
+    <item>
+      <title>Trúir þú öllu sem þú sérð á netinu?</title>
+      <link>https://menning.kopavogur.is/event/truir-thu-ollu-sem-thu-serd-a-netinu/</link>
+      <description>Trúir þú öllu sem þú sérð á netinu?
+
+Fyrsta svarið er líklega nei, auðvitað ekki! En getur þú í alvöru gert greinarmun á sannleika og uppspuna í stafrænum heimi? Tækninni fleygir hraðar fram en við höfum tök á að halda í við. Með hverjum deginum verður auðveldara að búa til trúverðugt efni sem getur blekkt marga. Svo hvernig verðum við upplýstir neytendur stafræns efnis?
+
+Um fyrirlesara:Gyða Bjarkadóttir er tölvunarfræðingur, heiðarlegur hjakkari og netöryggisnörd sem heldur skemmtilega og fræðandi erindi um upplýsingatækni með áherslu á gæða- og öryggismál.
+
+Erindið er hluti af verkefninu ,,Bókasafnið gegn upplýsingaóreiðu“ sem er styrkt af Bókasafnasjóði</description>
+      <ns0:encoded>&lt;!-- wp:columns --&gt;
+&lt;div class="wp-block-columns"&gt;&lt;!-- wp:column --&gt;
+&lt;div class="wp-block-column"&gt;&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Trúir þú öllu sem þú sérð á netinu?&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Fyrsta svarið er líklega nei, auðvitað ekki! En getur þú í alvöru gert greinarmun á sannleika og uppspuna í stafrænum heimi? Tækninni fleygir hraðar fram en við höfum tök á að halda í við. Með hverjum deginum verður auðveldara að búa til trúverðugt efni sem getur blekkt marga. Svo hvernig verðum við upplýstir neytendur stafræns efnis?&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;&lt;/div&gt;
+&lt;!-- /wp:column --&gt;
+
+&lt;!-- wp:column --&gt;
+&lt;div class="wp-block-column"&gt;&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Um fyrirlesara:&lt;br&gt;Gyða Bjarkadóttir er tölvunarfræðingur, heiðarlegur hjakkari og netöryggisnörd sem heldur skemmtilega og fræðandi erindi um upplýsingatækni með áherslu á gæða- og öryggismál.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Erindið er hluti af verkefninu ,,Bókasafnið gegn upplýsingaóreiðu“ sem er styrkt af Bókasafnasjóði&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;&lt;/div&gt;
+&lt;!-- /wp:column --&gt;&lt;/div&gt;
+&lt;!-- /wp:columns --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;</ns0:encoded>
+      <author>Harpa Grétarsdóttir (Harpa Grétarsdóttir)</author>
+      <guid isPermaLink="false">29913</guid>
+      <category>event</category>
+      <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2025/08/Bokasafnid-gegn-upplysingaoreidu-vidburdarmyndir7.jpg" length="0" type="image/jpeg" />
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
+      <media:content url="https://menning.kopavogur.is/wp-content/uploads/2025/08/Bokasafnid-gegn-upplysingaoreidu-vidburdarmyndir7.jpg" medium="image" type="image/jpeg" width="600" height="400" />
       <dc:creator>Harpa Grétarsdóttir</dc:creator>
     </item>
     <item>
       <title>Hannyrðaklúbburinn Kaðlín</title>
-      <link>https://menning.kopavogur.is/event/hannyrdaklubburinn-kadlin-167/</link>
+      <link>https://menning.kopavogur.is/event/hannyrdaklubburinn-kadlin-169/</link>
       <description>Hannyrðaklúbburinn Kaðlín hittist alla miðvikudaga á 2. hæð aðalsafns. Heitt á könnunni og öll velkomin!
 
 Nánari upplýsingar veitir Gréta Björg Ólafsdóttir, gretabjorg@kopavogur.is
@@ -263,16 +370,61 @@ Fylgist með í Facebook-hópnum Hannyrðaklúbburinn Kaðlín | Bókasafn Kóp
 &lt;!-- /wp:column --&gt;&lt;/div&gt;
 &lt;!-- /wp:columns --&gt;</ns0:encoded>
       <author>Harpa Grétarsdóttir (Harpa Grétarsdóttir)</author>
-      <guid isPermaLink="false">28002</guid>
+      <guid isPermaLink="false">28009</guid>
       <category>event</category>
       <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2023/01/Kadlin-Adalsafn-090920-1-1.jpg" length="0" type="image/jpeg" />
-      <pubDate>Wed, 29 Oct 2025 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
       <media:content url="https://menning.kopavogur.is/wp-content/uploads/2023/01/Kadlin-Adalsafn-090920-1-1.jpg" medium="image" type="image/jpeg" width="600" height="400" />
       <dc:creator>Harpa Grétarsdóttir</dc:creator>
     </item>
     <item>
+      <title>Krílafjör tónlistartími | Foreldramorgunn</title>
+      <link>https://menning.kopavogur.is/event/krilafjor-tonlistartimi-foreldramorgunn/</link>
+      <description>Chrissie Telma Guðmundsdóttir mun bjóða upp á Krílafjör tónlistartíma í barnadeild Bókasafns Kópavogs í samstarfi við Tónlistarskóla Kópavogs en þeir henta fyrir börn á aldrinum 4 til 16 mánaða og foreldra þeirra. 
+
+Við munum syngja og spila ásamt því að efla taktskyn, málþroska og tóneyra. Chrissie hefur mikla reynslu af tónlistarkennslu ungra barna og er menntaður Suzuki fiðlukennari.
+
+Foreldramorgnar eru frábært tækifæri fyrir foreldra og ung börn þeirra til að hittast og eiga rólega stund saman á safninu.
+
+Fylgist með í Facebook-hópnum Foreldramorgnar | Bókasafn Kópavogs. 
+
+Ókeypis aðgangur og öll velkomin.</description>
+      <ns0:encoded>&lt;!-- wp:columns --&gt;
+&lt;div class="wp-block-columns"&gt;&lt;!-- wp:column --&gt;
+&lt;div class="wp-block-column"&gt;&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Chrissie Telma Guðmundsdóttir mun bjóða upp á Krílafjör tónlistartíma í barnadeild Bókasafns Kópavogs í samstarfi við Tónlistarskóla Kópavogs en þeir henta fyrir börn á aldrinum 4 til 16 mánaða og foreldra þeirra. &lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Við munum syngja og spila ásamt því að efla taktskyn, málþroska og tóneyra. Chrissie hefur mikla reynslu af tónlistarkennslu ungra barna og er menntaður Suzuki fiðlukennari.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;&lt;/div&gt;
+&lt;!-- /wp:column --&gt;
+
+&lt;!-- wp:column --&gt;
+&lt;div class="wp-block-column"&gt;&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Foreldramorgnar eru&amp;nbsp;frábært tækifæri fyrir foreldra og ung börn þeirra til að hittast og eiga rólega stund saman á safninu.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Fylgist með í Facebook-hópnum&amp;nbsp;&lt;a href="https://www.facebook.com/groups/885245208303021" target="_blank" rel="noreferrer noopener"&gt;&lt;strong&gt;Foreldramorgnar | Bókasafn Kópavogs&lt;/strong&gt;&lt;/a&gt;.&amp;nbsp;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Ókeypis aðgangur og öll velkomin.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;&lt;/div&gt;
+&lt;!-- /wp:column --&gt;&lt;/div&gt;
+&lt;!-- /wp:columns --&gt;</ns0:encoded>
+      <author>Harpa Grétarsdóttir (Harpa Grétarsdóttir)</author>
+      <guid isPermaLink="false">30882</guid>
+      <category>event</category>
+      <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2025/10/Chrissie-foreldramorgunn.jpg" length="0" type="image/jpeg" />
+      <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
+      <media:content url="https://menning.kopavogur.is/wp-content/uploads/2025/10/Chrissie-foreldramorgunn.jpg" medium="image" type="image/jpeg" width="600" height="400" />
+      <dc:creator>Harpa Grétarsdóttir</dc:creator>
+    </item>
+    <item>
       <title>Opni leikskólinn Memmm</title>
-      <link>https://menning.kopavogur.is/event/opni-leikskolinn-memmm-6/</link>
+      <link>https://menning.kopavogur.is/event/opni-leikskolinn-memmm-8/</link>
       <description>Opinn leikskóli Memmm býður foreldrum/forsjáraðilum og ungum börnum þeirra fjölskylduvæna aðstöðu til þess að leika og hitta aðrar fjölskyldur. Einnig geta fjölskyldur sótt fræðslu um málefni uppeldis og barna. 
 
 Í opna leikskólanum er velkomið að mæta hvenær sem er á opnunartíma. Starfsfólk tekur vel á móti gestum. Þar geta foreldrar átt gæðastundir með börnum sínum í fallegu umhverfi en einnig tækifæri fyrir börnin að hitta jafnaldra sína og efla félagsþroska á þessum mótandi aldri.</description>
@@ -288,258 +440,98 @@ Fylgist með í Facebook-hópnum Hannyrðaklúbburinn Kaðlín | Bókasafn Kóp
 &lt;p&gt;&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;</ns0:encoded>
       <author>Harpa Grétarsdóttir (Harpa Grétarsdóttir)</author>
-      <guid isPermaLink="false">30506</guid>
+      <guid isPermaLink="false">30513</guid>
       <category>event</category>
       <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2025/09/thumbnail_IMG_6354.jpg" length="0" type="image/jpeg" />
-      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
       <media:content url="https://menning.kopavogur.is/wp-content/uploads/2025/09/thumbnail_IMG_6354.jpg" medium="image" type="image/jpeg" width="600" height="400" />
       <dc:creator>Harpa Grétarsdóttir</dc:creator>
     </item>
     <item>
-      <title>Hádegisjazz FÍH</title>
-      <link>https://menning.kopavogur.is/event/hadegisjazz-fih-7/</link>
-      <description>Þriðja árið í röð bjóða framhaldsnemendur af söngdeild Tónlistarskóla FÍH til ljúfra hádegistónleika á Bókasafni Kópavogs. Tónleikarnir fara fram síðasta fimmtudag hvers mánaðar en þar stíga tónlistarstjörnur framtíðarinnar á stokk með spennandi blöndu af gömlu og nýju, lög sem öll þekkja í bland við sjaldheyrðari smelli.
-
-Tónleikarnir standa yfir í um hálfa klukkustund og eru öllum opnir á meðan húsrúm leyfir. Aðgangur ókeypis.
-
-Í hádeginu þann 30. október nk. munu söngnemendur úr Tónlistarskóla FÍH, Guðrún Ösp Sigurmundardóttir, Jóna Svandís Þorvaldsdóttir og Sóley Arngrímsdóttir bjóða upp á ljúfa og litríka hádegistóna á Bókasafni Kópavogs. Þema tónleikanna eru litir og munu þær stöllur leitast við að lyfta upp litum í tónlist - í víðu samhengi - og flytja nokkur íslensk og erlend lög í notalegu umhverfi bókasafnsins. Fullkomin leið til að taka sér stund frá önnum dagsins nú þegar við siglum inn í skammdegið. Meðleikur er í höndum Jóels Fjalarssonar.
-
-Guðrún Ösp hefur sungið frá því í barnæsku og steig hún fyrst á svið aðeins átta ára gömul með skátalaginu um Tomma fjallabúa. Söngurinn fylgdi henni áfram í kórum og söngvakeppnum skólaáranna, þó hún að hún hafi eitt sinn hafnað sæti í háskólakórnum vegna þess að henni bauðst að syngja alt rödd sem hún hefur þó síðan lært að elska. Árið 2017 gekk hún til liðs við Kvennakór Kópavogs (nú Kvennakórinn Blika) og hefur síðan hafið söngnám í rythmískum söng í Tónlistarskóla FÍH þar sem hún stundar nú framhaldsnám. Hún sækir innblástur til listamanna á borð við Söru Bareilles og Emilíönu Torrini. Þegar hún er ekki að syngja nýtur hún þess að ferðast, ganga á fjöll, hreyfa sig og spila borðspil.
-
-Jóna Svandís stundar söngnám á framhaldsstigi við Tónlistarskóla FÍH og hefur einnig grunn á píanó. Hún hefur notið þess að syngja frá blautu barnsbeini, lengst af með Vocal Project – poppkór Íslands en áður með kór Verzlunarskóla Íslands og Barnakór Árbæjarkirkju. Jóna stofnaði árið 2013 sönghópinn Jólabjöllurnar sem skemmta víða fyrir hver jól. Hún semur einnig eigin tónlist og gaf út plötuna ÓRAR árið 2024 sem hún samdi ásamt vinkonum sínum. Jónu finnst skemmtilegt að takast á við að flytja fjölbreytta tónlist, allt frá íslenskum dægurlögum upp í þungarokk. Henni finnst gaman að spila tölvuleiki, skrifa texta og skáldverk, ásamt því að búa til minningar með vinum og fjölskyldu.
-
-Sóley stundar söngnám við Tónlistarskóla FÍH á miðstigi. Hún sótti fyrst söngnám 12 ára að aldri við Söngskóla Maríu Bjarkar og hefur verið haldin söngbakteríunni síðan þá. 
-
-Í 10. bekk tók hún þátt í söngkeppni félagsmiðstöðvanna í Breiðholti og hreppti þar 3. sætið með laginu The Scientist úr smiðju Coldplay. Uppúr menntaskólaárunum snerist athyglin að söngleikjaforminu og eftir 4 ára nám lauk hún miðprófi í söngleikjasöng frá Söngskóla Sigurðar Demetz vorið 2023.
-
-Haustið 2024 tók hún aðra stefnubreytingu yfir í rytmískta söngnámið þar sem hún hefur verið að spreyta sig á jazzi, rokki og poppdívulögum.
-
-Jóel stundar nám í jazzpíanó við tónlistarskólann MÍT. Hann byrjaði ungur að spila á píanó í kirkju og hefur í mörg ár tekið virkan þátt í kirkjustarfi þar sem hann hefur m.a. spilað á samkomum, brúðkaupum, útförum og öðrum tónlistartengdum viðburðum. Hann hefur einnig tekið þátt í ýmsum öðrum verkefnum, svo sem á böllum og tónleikum. Nokkur ár dvaldi Jóel í Ástralíu þar sem hann dýpkaði skilning sinn á tónlist og þróaði áhuga á hljóðhönnun og hljóðgervlum.</description>
-      <ns0:encoded>&lt;!-- wp:columns --&gt;
-&lt;div class="wp-block-columns"&gt;&lt;!-- wp:column --&gt;
-&lt;div class="wp-block-column"&gt;&lt;!-- wp:paragraph --&gt;
-&lt;p&gt;Þriðja árið í röð bjóða framhaldsnemendur af söngdeild Tónlistarskóla FÍH til ljúfra hádegistónleika á Bókasafni Kópavogs. Tónleikarnir fara fram síðasta fimmtudag hvers mánaðar en þar stíga tónlistarstjörnur framtíðarinnar á stokk með spennandi blöndu af gömlu og nýju, lög sem öll þekkja í bland við sjaldheyrðari smelli.&lt;/p&gt;
-&lt;!-- /wp:paragraph --&gt;
-
-&lt;!-- wp:paragraph --&gt;
-&lt;p&gt;Tónleikarnir standa yfir í um hálfa klukkustund og eru öllum opnir á meðan húsrúm leyfir. Aðgangur ókeypis.&lt;/p&gt;
-&lt;!-- /wp:paragraph --&gt;
-
-&lt;!-- wp:paragraph --&gt;
-&lt;p&gt;&amp;nbsp;&lt;br&gt;&lt;/p&gt;
-&lt;!-- /wp:paragraph --&gt;&lt;/div&gt;
-&lt;!-- /wp:column --&gt;
-
-&lt;!-- wp:column --&gt;
-&lt;div class="wp-block-column"&gt;&lt;!-- wp:paragraph --&gt;
-&lt;p&gt;&lt;strong&gt;Í hádeginu þann 30. október nk. munu söngnemendur úr Tónlistarskóla FÍH, Guðrún Ösp Sigurmundardóttir, Jóna Svandís Þorvaldsdóttir og Sóley Arngrímsdóttir bjóða upp á&amp;nbsp;ljúfa og litríka hádegistóna&amp;nbsp;á Bókasafni Kópavogs. Þema tónleikanna eru litir og munu þær stöllur leitast við að lyfta upp litum í tónlist - í víðu samhengi - og flytja nokkur íslensk og erlend lög í notalegu umhverfi bókasafnsins. Fullkomin leið til að taka sér stund frá önnum dagsins nú þegar við siglum inn í skammdegið. Meðleikur er í höndum Jóels Fjalarssonar.&lt;/strong&gt;&lt;/p&gt;
-&lt;!-- /wp:paragraph --&gt;
-
-&lt;!-- wp:paragraph --&gt;
-&lt;p&gt;Guðrún Ösp hefur sungið frá því í barnæsku og steig hún fyrst á svið aðeins átta ára gömul með skátalaginu um Tomma fjallabúa. Söngurinn fylgdi henni áfram í kórum og söngvakeppnum skólaáranna, þó hún að hún hafi eitt sinn hafnað sæti í háskólakórnum vegna þess að henni bauðst að syngja alt rödd sem hún hefur þó síðan lært að elska. Árið 2017 gekk hún til liðs við&amp;nbsp;&lt;em&gt;Kvennakór Kópavogs&lt;/em&gt;&amp;nbsp;(nú&amp;nbsp;&lt;em&gt;Kvennakórinn Blika&lt;/em&gt;) og hefur síðan hafið söngnám í rythmískum söng í Tónlistarskóla FÍH þar sem hún stundar nú framhaldsnám. Hún sækir innblástur til listamanna á borð við Söru Bareilles og Emilíönu Torrini. Þegar hún er ekki að syngja nýtur hún þess að ferðast, ganga á fjöll, hreyfa sig og spila borðspil.&lt;/p&gt;
-&lt;!-- /wp:paragraph --&gt;
-
-&lt;!-- wp:paragraph --&gt;
-&lt;p&gt;Jóna Svandís stundar söngnám á framhaldsstigi við Tónlistarskóla FÍH og hefur einnig grunn á píanó. Hún hefur notið þess að syngja frá blautu barnsbeini, lengst af með Vocal Project – poppkór Íslands en áður með kór Verzlunarskóla Íslands og Barnakór Árbæjarkirkju. Jóna stofnaði árið 2013 sönghópinn Jólabjöllurnar sem skemmta víða fyrir hver jól. Hún semur einnig eigin tónlist og gaf út plötuna ÓRAR árið 2024 sem hún samdi ásamt vinkonum sínum. Jónu finnst skemmtilegt að takast á við að flytja fjölbreytta tónlist, allt frá íslenskum dægurlögum upp í þungarokk. Henni finnst gaman að spila tölvuleiki, skrifa texta og skáldverk, ásamt því að búa til minningar með vinum og fjölskyldu.&lt;/p&gt;
-&lt;!-- /wp:paragraph --&gt;
-
-&lt;!-- wp:paragraph --&gt;
-&lt;p&gt;Sóley stundar söngnám við Tónlistarskóla FÍH á miðstigi. Hún sótti fyrst söngnám 12 ára að aldri við Söngskóla Maríu Bjarkar og hefur verið haldin söngbakteríunni síðan þá.&amp;nbsp;&lt;/p&gt;
-&lt;!-- /wp:paragraph --&gt;
-
-&lt;!-- wp:paragraph --&gt;
-&lt;p&gt;Í 10. bekk tók hún þátt í söngkeppni félagsmiðstöðvanna í Breiðholti og hreppti þar 3. sætið með laginu The Scientist úr smiðju Coldplay. Uppúr menntaskólaárunum snerist athyglin að söngleikjaforminu og eftir 4 ára nám lauk hún miðprófi í söngleikjasöng frá Söngskóla Sigurðar Demetz vorið 2023.&lt;/p&gt;
-&lt;!-- /wp:paragraph --&gt;
-
-&lt;!-- wp:paragraph --&gt;
-&lt;p&gt;Haustið 2024 tók hún aðra stefnubreytingu yfir í rytmískta söngnámið þar sem hún hefur verið að spreyta sig á jazzi, rokki og poppdívulögum.&lt;/p&gt;
-&lt;!-- /wp:paragraph --&gt;
-
-&lt;!-- wp:paragraph --&gt;
-&lt;p&gt;Jóel stundar nám í jazzpíanó við tónlistarskólann MÍT. Hann byrjaði ungur að spila á píanó í kirkju og hefur í mörg ár tekið virkan þátt í kirkjustarfi þar sem hann hefur m.a. spilað á samkomum, brúðkaupum, útförum og öðrum tónlistartengdum viðburðum. Hann hefur einnig tekið þátt í ýmsum öðrum verkefnum, svo sem á böllum og tónleikum. Nokkur ár dvaldi Jóel í Ástralíu þar sem hann dýpkaði skilning sinn á tónlist og þróaði áhuga á hljóðhönnun og hljóðgervlum.&lt;/p&gt;
-&lt;!-- /wp:paragraph --&gt;&lt;/div&gt;
-&lt;!-- /wp:column --&gt;&lt;/div&gt;
-&lt;!-- /wp:columns --&gt;
-
-&lt;!-- wp:paragraph --&gt;
-&lt;p&gt;&lt;/p&gt;
-&lt;!-- /wp:paragraph --&gt;</ns0:encoded>
-      <author>Harpa Grétarsdóttir (Harpa Grétarsdóttir)</author>
-      <guid isPermaLink="false">29977</guid>
-      <category>event</category>
-      <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2025/08/hadegisjazz-FIH-oktober-e1761151465914.jpeg" length="0" type="image/jpeg" />
-      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
-      <media:content url="https://menning.kopavogur.is/wp-content/uploads/2025/08/hadegisjazz-FIH-oktober-e1761151465914.jpeg" medium="image" type="image/jpeg" width="600" height="400" />
-      <dc:creator>Harpa Grétarsdóttir</dc:creator>
-    </item>
-    <item>
-      <title>Pálmi Gunnarsson | Af fingrum fram</title>
-      <link>https://menning.kopavogur.is/event/ari-eldjarn-af-fingrum-fram/</link>
+      <title>Selma &amp;amp; Hansa | Af fingrum fram</title>
+      <link>https://menning.kopavogur.is/event/selma-hansa-af-fingrum-fram/</link>
       <description>Hin lífsseiga spjalltónleikaröð Jóns Ólafssonar, Af fingrum fram, heldur ótrauð áfram inn í sextánda starfsvetur sinn í Salnum.
 
-Það þarf ekkert að kynna Pálma Gunnarsson fyrir þjóðinni en Vopnfirðingurinn vinsæli söng sig fyrst inn í hjörtu þjóðarinnar á áttunda áratug síðustu aldar og lögin skipta tugum sem við þekkjum í hans flutningi. Lengst af hefur Mannakorn þeirra Magnúsar Eiríkssonar verið hans helsti griðastaður og úr þeirri smiðju þekkjum við lög eins og Ó þú, Reyndu aftur og Sölva Helgason - sem dæmi. Pálmi er auðvitað þrusu bassaleikari í ofanálag og mun munda vopnið samhliða söngnum á þessum spennandi tónleikum þar sem farið verður í gegnum vægast sagt litríkan ferilinn.</description>
+Þær hafa brallað ýmislegt saman þær Selma Björnsdóttir og Jóhanna Vigdís Arnardóttir; bæði sem leik- og söngkonur. Einu sinni gáfu þeir meira að segja út plötu saman. Selma hefur auk þess sent frá sér sólóplötur og verið áberandi á ýmsum sviðum íslensk menningarlífs undanfarin ár og vægast sagt komið víða við sem leikkona, leikstjóri, dansahöfundur eða söngkona. Það sama má segja um Hönsu sem er líklega ókrýnd drottning söngleikjanna á Íslandi eftir að hafa brugðið sér í hin ýmsu gervi í þeirri deild. Þær stöllur hafa marga fjöruna sopið og ljóst að hér er áhugaverð kvöldstund í vændum.</description>
       <ns0:encoded>&lt;!-- wp:paragraph --&gt;
 &lt;p&gt;Hin lífsseiga spjalltónleikaröð Jóns Ólafssonar, Af fingrum fram, heldur ótrauð áfram inn í sextánda starfsvetur sinn í Salnum.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
 
 &lt;!-- wp:paragraph --&gt;
-&lt;p&gt;Það þarf ekkert að kynna Pálma Gunnarsson fyrir þjóðinni en Vopnfirðingurinn vinsæli söng sig fyrst inn í hjörtu þjóðarinnar á áttunda áratug síðustu aldar og lögin skipta tugum sem við þekkjum í hans flutningi. Lengst af hefur Mannakorn þeirra Magnúsar Eiríkssonar verið hans helsti griðastaður og úr þeirri smiðju þekkjum við lög eins og Ó þú, Reyndu aftur og Sölva Helgason - sem dæmi. Pálmi er auðvitað þrusu bassaleikari í ofanálag og mun munda vopnið samhliða söngnum á þessum spennandi tónleikum þar sem farið verður í gegnum vægast sagt litríkan ferilinn.&lt;/p&gt;
+&lt;p&gt;Þær hafa brallað ýmislegt saman þær Selma Björnsdóttir og Jóhanna Vigdís Arnardóttir; bæði sem leik- og söngkonur. Einu sinni gáfu þeir meira að segja út plötu saman. Selma hefur auk þess sent frá sér sólóplötur og verið áberandi á ýmsum sviðum íslensk menningarlífs undanfarin ár og vægast sagt komið víða við sem leikkona, leikstjóri, dansahöfundur eða söngkona. Það sama má segja um Hönsu sem er líklega ókrýnd drottning söngleikjanna á Íslandi eftir að hafa brugðið sér í hin ýmsu gervi í þeirri deild. Þær stöllur hafa marga fjöruna sopið og ljóst að hér er áhugaverð kvöldstund í vændum.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
 
 &lt;!-- wp:paragraph --&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;</ns0:encoded>
       <author>Anna Jóna Dungal (Anna Jóna Dungal)</author>
-      <guid isPermaLink="false">29022</guid>
+      <guid isPermaLink="false">29032</guid>
       <category>event</category>
       <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2025/06/Salurinn_25_26_AFF_TIX_1920X1080_02.jpg" length="0" type="image/jpeg" />
-      <pubDate>Thu, 30 Oct 2025 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
       <media:content url="https://menning.kopavogur.is/wp-content/uploads/2025/06/Salurinn_25_26_AFF_TIX_1920X1080_02.jpg" medium="image" type="image/jpeg" width="600" height="400" />
       <dc:creator>Anna Jóna Dungal</dc:creator>
     </item>
     <item>
-      <title>Offita á krossgötum – byggjum meðferð á þekkingu</title>
-      <link>https://menning.kopavogur.is/event/offita-a-krossgotum-byggjum-medferd-a-thekkingu/</link>
-      <description>Félag fagfólks um offitu (FFO) boðar til ráðstefnu þann 31. október í Salnum í Kópavogi fyrir heilbrigðisstarfsfólk, þar sem innlendir og erlendir sérfræðingar fjalla um nýjustu þekkingu á offitu, ýmsa vinkla tengda forvörnum og meðferð við offitu.
+      <title>Már &amp;amp; the Royal Northern College of Music Session Orchestra</title>
+      <link>https://menning.kopavogur.is/event/mar-the-royal-northern-college-of-music-session-orchestra/</link>
+      <description>Tónlistarmaðurinn og ólympíufarinn Már heldur tónleika í Salnum Kópavogi og Hljómahöll Reykjanesbæ ásamt 30 manna stórhljómsveit frá Manchester.
 
-Á dagskránni verða meðal annars erindi um:
+Öllu verður til tjaldað en hljómsveitina skipar glæsilegt hrynband, 12 manna strengjasveit, tré og málmblásturshljóðfæri, slagverk og söngvarar.
 
-Þróun og orsakaþætti offitu
+Á tónleikunum fá áhorfendur að heyra tónlist Más í bland við sígilda slagara í nýjum sinfónískum útsetningum.
 
-Sérhæfða meðferð og reynsla sjúklinga
+Heiðursgestur sýningarinnar verður hinn víðfrægi enski söngvari Wayne Ellington. 
 
-Næringu, vöðvastyrk og heilsu 
+Í nóvember 2024 hélt Már sína fyrstu tónleika ásamt RNCM session Orchestra við frábærar undirtektir. Í framhaldi hefur hann komið fram með sveitinni á fjölda viðburða í Englandi; má þar helst nefna tvenna uppselda tónleika í Manchester, og framkomu á tónlistarhátíðinni Candle Calling.
 
-Kvenheilsu, hormóna og fitubjúg
+Ætlunin er að gera enn betur á Íslandi í nóvember, mikið er lagt í tónleikana sem verða stærri og veglegri en nokkru sinni fyrr. 
 
-Offitu barna og samfélagslega ábyrgð
+Enski söngvarinn Wayne Ellington sem sló svo eftirminnilega í gegn í The Voice Uk verður sérstakur heiðurssöngvari tónleikanna í ár. Wayne hefur snert hjörtu milljóna manna um heim allan með söng sínum, en þetta verður í fyrsta sinn sem hann kemur fram á Íslandi. Hann hefur deilt sviði með hljómsveitinni Blur og sungið í brúðkaupi Prince Harry og Meghan Markle svo eitthvað sé nefnt. 
 
-Ráðstefnan er ætluð fagfólki sem sinnir einstaklingum með offitu í sínu klíníska starfi og þeim sem vilja fræðast betur um sjúkdóminn offitu og tengdum áskorunum.
-
-Boðið verður upp á hádegismat og millibita í kaffihléum. Að lokinni ráðstefnu verður ánægjustund. 
-
-Nánari dagskrá má finna HÉR.
-
-Frekari upplýsingar: Gréta Jakobsdóttir, formaður félags fagfólks um offitu, email: fagfolk.offita@gmail.com og sími: 690-5988</description>
+Styrktaraðilar tónleikanna eru: uppbyggingarsjóður Suðurnesja, K. Steinarsson, menningarsjóður Reykjanesbæjar, Rétturinn, Bus4U, Kökulist og Sporthúsið Reykjanesbæ.</description>
       <ns0:encoded>&lt;!-- wp:paragraph --&gt;
-&lt;p&gt;Félag fagfólks um offitu (FFO) boðar til ráðstefnu þann 31. október í Salnum í Kópavogi fyrir heilbrigðisstarfsfólk, þar sem innlendir og erlendir sérfræðingar fjalla um nýjustu þekkingu á offitu, ýmsa vinkla tengda forvörnum og meðferð við offitu.&lt;/p&gt;
+&lt;p&gt;&lt;a target="_blank" rel="noreferrer noopener"&gt;&lt;strong&gt;Tónlistarmaðurinn og ólympíufarinn Már heldur tónleika í Salnum Kópavogi og Hljómahöll Reykjanesbæ ásamt 30 manna stórhljómsveit frá Manchester.&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
 
 &lt;!-- wp:paragraph --&gt;
-&lt;p&gt;&lt;strong&gt;Á dagskránni verða meðal annars erindi um:&lt;/strong&gt;&lt;/p&gt;
-&lt;!-- /wp:paragraph --&gt;
-
-&lt;!-- wp:list --&gt;
-&lt;ul class="wp-block-list"&gt;&lt;!-- wp:list-item --&gt;
-&lt;li&gt;Þróun og orsakaþætti offitu&lt;/li&gt;
-&lt;!-- /wp:list-item --&gt;
-
-&lt;!-- wp:list-item --&gt;
-&lt;li&gt;Sérhæfða meðferð og reynsla sjúklinga&lt;/li&gt;
-&lt;!-- /wp:list-item --&gt;
-
-&lt;!-- wp:list-item --&gt;
-&lt;li&gt;Næringu, vöðvastyrk og heilsu &lt;/li&gt;
-&lt;!-- /wp:list-item --&gt;
-
-&lt;!-- wp:list-item --&gt;
-&lt;li&gt;Kvenheilsu, hormóna og fitubjúg&lt;/li&gt;
-&lt;!-- /wp:list-item --&gt;
-
-&lt;!-- wp:list-item --&gt;
-&lt;li&gt;Offitu barna og samfélagslega ábyrgð&lt;/li&gt;
-&lt;!-- /wp:list-item --&gt;&lt;/ul&gt;
-&lt;!-- /wp:list --&gt;
-
-&lt;!-- wp:paragraph --&gt;
-&lt;p&gt;Ráðstefnan er ætluð fagfólki sem sinnir einstaklingum með offitu í sínu klíníska starfi og þeim sem vilja fræðast betur um sjúkdóminn offitu og tengdum áskorunum.&lt;/p&gt;
+&lt;p&gt;Öllu verður til tjaldað en hljómsveitina skipar glæsilegt hrynband, 12 manna strengjasveit, tré og málmblásturshljóðfæri, slagverk og söngvarar.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
 
 &lt;!-- wp:paragraph --&gt;
-&lt;p&gt;Boðið verður upp á hádegismat og millibita í kaffihléum. Að lokinni ráðstefnu verður ánægjustund.&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;Á tónleikunum fá áhorfendur að heyra tónlist Más í bland við sígilda slagara í nýjum sinfónískum útsetningum.&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
 
 &lt;!-- wp:paragraph --&gt;
-&lt;p&gt;Nánari dagskrá má finna&amp;nbsp;&lt;a target="_blank" rel="noreferrer noopener" href="http://www.landspitali.is/default.aspx?PageID=d30d5d7b-b42e-11e7-80fe-005056be0005&amp;amp;itemid=0dab2861-84be-11f0-b886-005056bc7093"&gt;&lt;strong&gt;HÉR&lt;/strong&gt;&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Heiðursgestur sýningarinnar verður hinn víðfrægi enski söngvari Wayne Ellington.&amp;nbsp;&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
 
 &lt;!-- wp:paragraph --&gt;
-&lt;p&gt;Frekari upplýsingar: Gréta Jakobsdóttir, formaður félags fagfólks um offitu, email:&amp;nbsp;&lt;a target="_blank" rel="noreferrer noopener" href="mailto:fagfolk.offita@gmail.com"&gt;fagfolk.offita@gmail.com&lt;/a&gt;&amp;nbsp;og sími: 690-5988&lt;/p&gt;
+&lt;p&gt;Í nóvember 2024 hélt Már sína fyrstu tónleika ásamt RNCM session Orchestra við frábærar undirtektir. Í framhaldi hefur hann komið fram með sveitinni á fjölda viðburða í Englandi; má þar helst nefna tvenna uppselda tónleika í Manchester, og framkomu á tónlistarhátíðinni Candle Calling.&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Ætlunin er að gera enn betur á Íslandi í nóvember, mikið er lagt í tónleikana sem verða stærri og veglegri en nokkru sinni fyrr.&amp;nbsp;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;Enski söngvarinn Wayne Ellington sem sló svo eftirminnilega í gegn í The Voice Uk verður sérstakur heiðurssöngvari tónleikanna í ár. Wayne hefur snert hjörtu milljóna manna um heim allan með söng sínum, en þetta verður í fyrsta sinn sem hann kemur fram á Íslandi. Hann hefur deilt sviði með hljómsveitinni Blur og sungið í brúðkaupi Prince Harry og Meghan Markle svo eitthvað sé nefnt.&amp;nbsp;&lt;/p&gt;
+&lt;!-- /wp:paragraph --&gt;
+
+&lt;!-- wp:paragraph --&gt;
+&lt;p&gt;&lt;em&gt;Styrktaraðilar tónleikanna eru: uppbyggingarsjóður Suðurnesja, K. Steinarsson, menningarsjóður Reykjanesbæjar, Rétturinn, Bus4U, Kökulist og Sporthúsið Reykjanesbæ.&lt;/em&gt;&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;
 
 &lt;!-- wp:paragraph --&gt;
 &lt;p&gt;&lt;/p&gt;
 &lt;!-- /wp:paragraph --&gt;</ns0:encoded>
-      <author>Gígja Skjaldardóttir (Gígja Skjaldardóttir)</author>
-      <guid isPermaLink="false">30588</guid>
+      <author>Axel Ingi Árnason (Axel Ingi Árnason)</author>
+      <guid isPermaLink="false">29484</guid>
       <category>event</category>
-      <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2025/10/Group-crossing-road.2864.jpg" length="0" type="image/jpeg" />
-      <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
-      <media:content url="https://menning.kopavogur.is/wp-content/uploads/2025/10/Group-crossing-road.2864.jpg" medium="image" type="image/jpeg" width="600" height="400" />
-      <dc:creator>Gígja Skjaldardóttir</dc:creator>
-    </item>
-    <item>
-      <title>Get together</title>
-      <link>https://menning.kopavogur.is/event/get-together-56/</link>
-      <description>Get Together meet-ups will be held at the Library in Kópavogur, on the first floor in the Tilraunastofa - meeting room. The meet-ups are international meetings open to refugees, asylum-seekers, immigrants, and anyone seeking companionship. Whether you're a family or an individual, you're welcome to join us.
-
-Each week, we gather and do relaxing activities like painting, weaving, crafting, and more. It's all about getting together, making new friends, and sharing stories in a warm, supportive space.Get Together meet-ups are a collaboration between GETA aid organization and the Library in Kópavogur.We offer free coffee and treats for everyone!
-
-These meet ups are a part of the project The library in a multilingual society sponsored by Nordplus and Bókasafnasjóður.
-
-Get Together heldur alþjóðlegan fjölskyldu- og vinahitting á Bókasafni Kópavogs, á fyrstu hæð í Tilraunastofunni. Þetta er alþjóðlegur hittingur fyrir flóttafólk, hælisleitendur, innflytjendur og öll sem vilja félagsskap.Viðburðurinn er bæði fyrir fjölskyldur og einstaklinga.
-
-Í hverri viku munum við hittast og gera eitthvað skemmtilegt saman eins og að mála, prjóna, föndra o.fl. Í Get together hittum við nýja vini og deilum sögum okkar í þægilegu og öruggu umhverfi.
-
-Get Together er samstarfsverkefni milli GETA hjálparsamtök og Bókasafn Kópavogs.
-
-Við munum bjóða upp á kaffi og með því!
-
-Þessi viðburður er hluti af verkefninu Bókasafnið í fjölþjóðlegu umhverfi sem er styrkt af Nordplus og Bókasafnasjóði.</description>
-      <ns0:encoded>&lt;!-- wp:columns --&gt;
-&lt;div class="wp-block-columns"&gt;&lt;!-- wp:column --&gt;
-&lt;div class="wp-block-column"&gt;&lt;!-- wp:paragraph --&gt;
-&lt;p&gt;Get Together meet-ups will be held at the Library in Kópavogur, on the first floor in the Tilraunastofa - meeting room. The meet-ups are international meetings open to refugees, asylum-seekers, immigrants, and anyone seeking companionship. Whether you're a family or an individual, you're welcome to join us.&lt;/p&gt;
-&lt;!-- /wp:paragraph --&gt;
-
-&lt;!-- wp:paragraph --&gt;
-&lt;p&gt;Each week, we gather and do relaxing activities like painting, weaving, crafting, and more. It's all about getting together, making new friends, and sharing stories in a warm, supportive space.&lt;br&gt;Get Together meet-ups are a collaboration between GETA aid organization and the Library in Kópavogur.&lt;br&gt;We offer free coffee and treats for everyone!&lt;/p&gt;
-&lt;!-- /wp:paragraph --&gt;
-
-&lt;!-- wp:paragraph --&gt;
-&lt;p&gt;These meet ups are a part of the project The library in a multilingual society sponsored by Nordplus and Bókasafnasjóður.&lt;/p&gt;
-&lt;!-- /wp:paragraph --&gt;&lt;/div&gt;
-&lt;!-- /wp:column --&gt;
-
-&lt;!-- wp:column --&gt;
-&lt;div class="wp-block-column"&gt;&lt;!-- wp:paragraph --&gt;
-&lt;p&gt;Get Together heldur alþjóðlegan fjölskyldu- og vinahitting á Bókasafni Kópavogs, á fyrstu hæð í Tilraunastofunni. Þetta er alþjóðlegur hittingur fyrir flóttafólk, hælisleitendur, innflytjendur og öll sem vilja félagsskap.&lt;br&gt;Viðburðurinn er bæði fyrir fjölskyldur og einstaklinga.&lt;/p&gt;
-&lt;!-- /wp:paragraph --&gt;
-
-&lt;!-- wp:paragraph --&gt;
-&lt;p&gt;Í hverri viku munum við hittast og gera eitthvað skemmtilegt saman eins og að mála, prjóna, föndra o.fl. Í Get together hittum við nýja vini og deilum sögum okkar í þægilegu og öruggu umhverfi.&lt;/p&gt;
-&lt;!-- /wp:paragraph --&gt;
-
-&lt;!-- wp:paragraph --&gt;
-&lt;p&gt;Get Together er samstarfsverkefni milli GETA hjálparsamtök og Bókasafn Kópavogs.&lt;/p&gt;
-&lt;!-- /wp:paragraph --&gt;
-
-&lt;!-- wp:paragraph --&gt;
-&lt;p&gt;Við munum bjóða upp á kaffi og með því!&lt;/p&gt;
-&lt;!-- /wp:paragraph --&gt;
-
-&lt;!-- wp:paragraph --&gt;
-&lt;p&gt;Þessi viðburður er hluti af verkefninu Bókasafnið í fjölþjóðlegu umhverfi sem er styrkt af Nordplus og Bókasafnasjóði.&lt;/p&gt;
-&lt;!-- /wp:paragraph --&gt;&lt;/div&gt;
-&lt;!-- /wp:column --&gt;&lt;/div&gt;
-&lt;!-- /wp:columns --&gt;</ns0:encoded>
-      <author>Harpa Grétarsdóttir (Harpa Grétarsdóttir)</author>
-      <guid isPermaLink="false">29944</guid>
-      <category>event</category>
-      <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2024/08/get-together.jpg" length="0" type="image/jpeg" />
-      <pubDate>Fri, 31 Oct 2025 00:00:00 +0000</pubDate>
-      <media:content url="https://menning.kopavogur.is/wp-content/uploads/2024/08/get-together.jpg" medium="image" type="image/jpeg" width="600" height="400" />
-      <dc:creator>Harpa Grétarsdóttir</dc:creator>
+      <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2025/07/1920x1080-cover.jpg" length="0" type="image/jpeg" />
+      <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
+      <media:content url="https://menning.kopavogur.is/wp-content/uploads/2025/07/1920x1080-cover.jpg" medium="image" type="image/jpeg" width="600" height="400" />
+      <dc:creator>Axel Ingi Árnason</dc:creator>
     </item>
   </channel>
 </rss>
