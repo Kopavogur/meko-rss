@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 10 Nov 2025 09:35:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Nov 2025 10:21:22 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>Staðarlistamaður Salarins árið 2025</title>
@@ -112,7 +112,7 @@
 </ns0:encoded>
       <author>Gígja Skjaldardóttir (Gígja Skjaldardóttir)</author>
       <guid isPermaLink="false">https://menning.kopavogur.is/?p=30841</guid>
-      <category>news</category>
+      <category>fréttir</category>
       <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2025/10/Soley_Ektar2023_25042024_04.jpg" length="0" type="image/jpeg" />
       <pubDate>Fri, 17 Oct 2025 16:04:53 +0000</pubDate>
       <media:content url="https://menning.kopavogur.is/wp-content/uploads/2025/10/Soley_Ektar2023_25042024_04.jpg" medium="image" type="image/jpeg" width="600" height="400" />
@@ -171,7 +171,7 @@
 </ns0:encoded>
       <author>Gígja Skjaldardóttir (Gígja Skjaldardóttir)</author>
       <guid isPermaLink="false">https://menning.kopavogur.is/?p=30889</guid>
-      <category>news</category>
+      <category>fréttir</category>
       <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2025/10/gjafakort_banner_1440x615.jpg" length="0" type="image/jpeg" />
       <pubDate>Wed, 22 Oct 2025 13:06:37 +0000</pubDate>
       <media:content url="https://menning.kopavogur.is/wp-content/uploads/2025/10/gjafakort_banner_1440x615.jpg" medium="image" type="image/jpeg" width="600" height="400" />
@@ -224,7 +224,7 @@
 </ns0:encoded>
       <author>Harpa Grétarsdóttir (Harpa Grétarsdóttir)</author>
       <guid isPermaLink="false">https://menning.kopavogur.is/?p=30957</guid>
-      <category>news</category>
+      <category>fréttir</category>
       <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2025/10/rafraen-greidslugatt-bokasafn-kopavogs.jpg" length="0" type="image/jpeg" />
       <pubDate>Wed, 22 Oct 2025 15:24:03 +0000</pubDate>
       <media:content url="https://menning.kopavogur.is/wp-content/uploads/2025/10/rafraen-greidslugatt-bokasafn-kopavogs.jpg" medium="image" type="image/jpeg" width="600" height="400" />
@@ -243,7 +243,7 @@
 </ns0:encoded>
       <author>Þorgerður Þórhallsdóttir (Þorgerður Þórhallsdóttir)</author>
       <guid isPermaLink="false">https://menning.kopavogur.is/?p=30982</guid>
-      <category>news</category>
+      <category>fréttir</category>
       <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2025/10/ADAL.jpeg" length="0" type="image/jpeg" />
       <pubDate>Fri, 24 Oct 2025 09:34:48 +0000</pubDate>
       <media:content url="https://menning.kopavogur.is/wp-content/uploads/2025/10/ADAL.jpeg" medium="image" type="image/jpeg" width="600" height="400" />
@@ -282,7 +282,7 @@
 </ns0:encoded>
       <author>Hulda Margrét Birkisdóttir (Hulda Margrét Birkisdóttir)</author>
       <guid isPermaLink="false">https://menning.kopavogur.is/?p=30986</guid>
-      <category>news</category>
+      <category>fréttir</category>
       <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2025/10/fuglateiknismidja-ran-flygenring.jpg" length="0" type="image/jpeg" />
       <pubDate>Sat, 25 Oct 2025 13:22:53 +0000</pubDate>
       <media:content url="https://menning.kopavogur.is/wp-content/uploads/2025/10/fuglateiknismidja-ran-flygenring.jpg" medium="image" type="image/jpeg" width="600" height="400" />
@@ -305,7 +305,7 @@
 </ns0:encoded>
       <author>Harpa Grétarsdóttir (Harpa Grétarsdóttir)</author>
       <guid isPermaLink="false">https://menning.kopavogur.is/?p=31040</guid>
-      <category>news</category>
+      <category>fréttir</category>
       <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2025/10/Geirthrudur_opnun_afregluvaeding.jpg" length="0" type="image/jpeg" />
       <pubDate>Fri, 31 Oct 2025 10:10:20 +0000</pubDate>
       <media:content url="https://menning.kopavogur.is/wp-content/uploads/2025/10/Geirthrudur_opnun_afregluvaeding.jpg" medium="image" type="image/jpeg" width="600" height="400" />
@@ -324,7 +324,7 @@
 </ns0:encoded>
       <author>Þorgerður Þórhallsdóttir (Þorgerður Þórhallsdóttir)</author>
       <guid isPermaLink="false">https://menning.kopavogur.is/?p=31056</guid>
-      <category>news</category>
+      <category>fréttir</category>
       <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2025/11/Gerdarsafn.-Mynd-Axel-Sigurdsson.jpg" length="0" type="image/jpeg" />
       <pubDate>Mon, 03 Nov 2025 15:01:09 +0000</pubDate>
       <media:content url="https://menning.kopavogur.is/wp-content/uploads/2025/11/Gerdarsafn.-Mynd-Axel-Sigurdsson.jpg" medium="image" type="image/jpeg" width="600" height="400" />
@@ -469,7 +469,7 @@
 </ns0:encoded>
       <author>Harpa Grétarsdóttir (Harpa Grétarsdóttir)</author>
       <guid isPermaLink="false">https://menning.kopavogur.is/?p=31101</guid>
-      <category>news</category>
+      <category>fréttir</category>
       <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2025/11/Media-40.jpg" length="0" type="image/jpeg" />
       <pubDate>Wed, 05 Nov 2025 13:40:18 +0000</pubDate>
       <media:content url="https://menning.kopavogur.is/wp-content/uploads/2025/11/Media-40.jpg" medium="image" type="image/jpeg" width="600" height="400" />
@@ -520,7 +520,7 @@
 </ns0:encoded>
       <author>Harpa Grétarsdóttir (Harpa Grétarsdóttir)</author>
       <guid isPermaLink="false">https://menning.kopavogur.is/?p=31117</guid>
-      <category>news</category>
+      <category>fréttir</category>
       <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2025/11/Image-4.jpg" length="0" type="image/jpeg" />
       <pubDate>Wed, 05 Nov 2025 18:22:07 +0000</pubDate>
       <media:content url="https://menning.kopavogur.is/wp-content/uploads/2025/11/Image-4.jpg" medium="image" type="image/jpeg" width="600" height="400" />
@@ -567,7 +567,7 @@
 </ns0:encoded>
       <author>Vigdís Másdóttir (Vigdís Másdóttir)</author>
       <guid isPermaLink="false">https://menning.kopavogur.is/?p=31144</guid>
-      <category>news</category>
+      <category>fréttir</category>
       <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2025/11/jolatonleikar2.jpg" length="0" type="image/jpeg" />
       <pubDate>Fri, 07 Nov 2025 14:24:02 +0000</pubDate>
       <media:content url="https://menning.kopavogur.is/wp-content/uploads/2025/11/jolatonleikar2.jpg" medium="image" type="image/jpeg" width="600" height="400" />

@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>is</language>
-    <lastBuildDate>Mon, 10 Nov 2025 09:35:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Nov 2025 10:21:21 +0000</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>Staðarlistamaður Salarins árið 2025</title>
@@ -112,7 +112,7 @@
 </ns0:encoded>
       <author>Gígja Skjaldardóttir (Gígja Skjaldardóttir)</author>
       <guid isPermaLink="false">https://menning.kopavogur.is/?p=30841</guid>
-      <category>news</category>
+      <category>fréttir</category>
       <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2025/10/Soley_Ektar2023_25042024_04.jpg" length="0" type="image/jpeg" />
       <pubDate>Fri, 17 Oct 2025 16:04:53 +0000</pubDate>
       <media:content url="https://menning.kopavogur.is/wp-content/uploads/2025/10/Soley_Ektar2023_25042024_04.jpg" medium="image" type="image/jpeg" width="600" height="400" />
@@ -171,7 +171,7 @@
 </ns0:encoded>
       <author>Gígja Skjaldardóttir (Gígja Skjaldardóttir)</author>
       <guid isPermaLink="false">https://menning.kopavogur.is/?p=30889</guid>
-      <category>news</category>
+      <category>fréttir</category>
       <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2025/10/gjafakort_banner_1440x615.jpg" length="0" type="image/jpeg" />
       <pubDate>Wed, 22 Oct 2025 13:06:37 +0000</pubDate>
       <media:content url="https://menning.kopavogur.is/wp-content/uploads/2025/10/gjafakort_banner_1440x615.jpg" medium="image" type="image/jpeg" width="600" height="400" />
@@ -224,7 +224,7 @@
 </ns0:encoded>
       <author>Harpa Grétarsdóttir (Harpa Grétarsdóttir)</author>
       <guid isPermaLink="false">https://menning.kopavogur.is/?p=30957</guid>
-      <category>news</category>
+      <category>fréttir</category>
       <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2025/10/rafraen-greidslugatt-bokasafn-kopavogs.jpg" length="0" type="image/jpeg" />
       <pubDate>Wed, 22 Oct 2025 15:24:03 +0000</pubDate>
       <media:content url="https://menning.kopavogur.is/wp-content/uploads/2025/10/rafraen-greidslugatt-bokasafn-kopavogs.jpg" medium="image" type="image/jpeg" width="600" height="400" />
@@ -243,7 +243,7 @@
 </ns0:encoded>
       <author>Þorgerður Þórhallsdóttir (Þorgerður Þórhallsdóttir)</author>
       <guid isPermaLink="false">https://menning.kopavogur.is/?p=30982</guid>
-      <category>news</category>
+      <category>fréttir</category>
       <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2025/10/ADAL.jpeg" length="0" type="image/jpeg" />
       <pubDate>Fri, 24 Oct 2025 09:34:48 +0000</pubDate>
       <media:content url="https://menning.kopavogur.is/wp-content/uploads/2025/10/ADAL.jpeg" medium="image" type="image/jpeg" width="600" height="400" />
@@ -282,7 +282,7 @@
 </ns0:encoded>
       <author>Hulda Margrét Birkisdóttir (Hulda Margrét Birkisdóttir)</author>
       <guid isPermaLink="false">https://menning.kopavogur.is/?p=30986</guid>
-      <category>news</category>
+      <category>fréttir</category>
       <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2025/10/fuglateiknismidja-ran-flygenring.jpg" length="0" type="image/jpeg" />
       <pubDate>Sat, 25 Oct 2025 13:22:53 +0000</pubDate>
       <media:content url="https://menning.kopavogur.is/wp-content/uploads/2025/10/fuglateiknismidja-ran-flygenring.jpg" medium="image" type="image/jpeg" width="600" height="400" />
@@ -305,7 +305,7 @@
 </ns0:encoded>
       <author>Harpa Grétarsdóttir (Harpa Grétarsdóttir)</author>
       <guid isPermaLink="false">https://menning.kopavogur.is/?p=31040</guid>
-      <category>news</category>
+      <category>fréttir</category>
       <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2025/10/Geirthrudur_opnun_afregluvaeding.jpg" length="0" type="image/jpeg" />
       <pubDate>Fri, 31 Oct 2025 10:10:20 +0000</pubDate>
       <media:content url="https://menning.kopavogur.is/wp-content/uploads/2025/10/Geirthrudur_opnun_afregluvaeding.jpg" medium="image" type="image/jpeg" width="600" height="400" />
@@ -388,7 +388,7 @@ Karl Olgeirsson: hljómsveitarstjóri spilar á píanó, hljómborð, harmonikku
 &lt;!-- /wp:paragraph --&gt;</ns0:encoded>
       <author>Axel Ingi Árnason (Axel Ingi Árnason)</author>
       <guid isPermaLink="false">29784</guid>
-      <category>event</category>
+      <category>viðburðir</category>
       <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2025/08/1920x1080-cover-tix-fb-almenn-mynd-50.jpg" length="0" type="image/jpeg" />
       <pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate>
       <media:content url="https://menning.kopavogur.is/wp-content/uploads/2025/08/1920x1080-cover-tix-fb-almenn-mynd-50.jpg" medium="image" type="image/jpeg" width="600" height="400" />
@@ -407,7 +407,7 @@ Karl Olgeirsson: hljómsveitarstjóri spilar á píanó, hljómborð, harmonikku
 </ns0:encoded>
       <author>Þorgerður Þórhallsdóttir (Þorgerður Þórhallsdóttir)</author>
       <guid isPermaLink="false">https://menning.kopavogur.is/?p=31056</guid>
-      <category>news</category>
+      <category>fréttir</category>
       <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2025/11/Gerdarsafn.-Mynd-Axel-Sigurdsson.jpg" length="0" type="image/jpeg" />
       <pubDate>Mon, 03 Nov 2025 15:01:09 +0000</pubDate>
       <media:content url="https://menning.kopavogur.is/wp-content/uploads/2025/11/Gerdarsafn.-Mynd-Axel-Sigurdsson.jpg" medium="image" type="image/jpeg" width="600" height="400" />
@@ -552,7 +552,7 @@ Karl Olgeirsson: hljómsveitarstjóri spilar á píanó, hljómborð, harmonikku
 </ns0:encoded>
       <author>Harpa Grétarsdóttir (Harpa Grétarsdóttir)</author>
       <guid isPermaLink="false">https://menning.kopavogur.is/?p=31101</guid>
-      <category>news</category>
+      <category>fréttir</category>
       <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2025/11/Media-40.jpg" length="0" type="image/jpeg" />
       <pubDate>Wed, 05 Nov 2025 13:40:18 +0000</pubDate>
       <media:content url="https://menning.kopavogur.is/wp-content/uploads/2025/11/Media-40.jpg" medium="image" type="image/jpeg" width="600" height="400" />
@@ -603,7 +603,7 @@ Karl Olgeirsson: hljómsveitarstjóri spilar á píanó, hljómborð, harmonikku
 </ns0:encoded>
       <author>Harpa Grétarsdóttir (Harpa Grétarsdóttir)</author>
       <guid isPermaLink="false">https://menning.kopavogur.is/?p=31117</guid>
-      <category>news</category>
+      <category>fréttir</category>
       <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2025/11/Image-4.jpg" length="0" type="image/jpeg" />
       <pubDate>Wed, 05 Nov 2025 18:22:07 +0000</pubDate>
       <media:content url="https://menning.kopavogur.is/wp-content/uploads/2025/11/Image-4.jpg" medium="image" type="image/jpeg" width="600" height="400" />
@@ -650,7 +650,7 @@ Karl Olgeirsson: hljómsveitarstjóri spilar á píanó, hljómborð, harmonikku
 </ns0:encoded>
       <author>Vigdís Másdóttir (Vigdís Másdóttir)</author>
       <guid isPermaLink="false">https://menning.kopavogur.is/?p=31144</guid>
-      <category>news</category>
+      <category>fréttir</category>
       <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2025/11/jolatonleikar2.jpg" length="0" type="image/jpeg" />
       <pubDate>Fri, 07 Nov 2025 14:24:02 +0000</pubDate>
       <media:content url="https://menning.kopavogur.is/wp-content/uploads/2025/11/jolatonleikar2.jpg" medium="image" type="image/jpeg" width="600" height="400" />
@@ -689,7 +689,7 @@ Bróderíklúbburinn hittist á mánudögum á Lindasafni í Núpalind 7 kl. 14:
 &lt;!-- /wp:columns --&gt;</ns0:encoded>
       <author>Harpa Grétarsdóttir (Harpa Grétarsdóttir)</author>
       <guid isPermaLink="false">30345</guid>
-      <category>event</category>
+      <category>viðburðir</category>
       <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2025/01/broderi-scaled.jpg" length="0" type="image/jpeg" />
       <pubDate>Mon, 10 Nov 2025 00:00:00 +0000</pubDate>
       <media:content url="https://menning.kopavogur.is/wp-content/uploads/2025/01/broderi-scaled.jpg" medium="image" type="image/jpeg" width="600" height="400" />
@@ -730,7 +730,7 @@ Fylgist með í Facebook-hópnum Hannyrðaklúbburinn Garn og gaman | Bókasafn
 &lt;!-- /wp:columns --&gt;</ns0:encoded>
       <author>Harpa Grétarsdóttir (Harpa Grétarsdóttir)</author>
       <guid isPermaLink="false">28110</guid>
-      <category>event</category>
+      <category>viðburðir</category>
       <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2024/01/Prjonandi-hendur-med-raudar-neglur-scaled.jpeg" length="0" type="image/jpeg" />
       <pubDate>Tue, 11 Nov 2025 00:00:00 +0000</pubDate>
       <media:content url="https://menning.kopavogur.is/wp-content/uploads/2024/01/Prjonandi-hendur-med-raudar-neglur-scaled.jpeg" medium="image" type="image/jpeg" width="600" height="400" />
@@ -785,7 +785,7 @@ Erindið fer fram í Náttúrufræðistofu Kópavogs.
 &lt;!-- /wp:paragraph --&gt;</ns0:encoded>
       <author>Harpa Grétarsdóttir (Harpa Grétarsdóttir)</author>
       <guid isPermaLink="false">31023</guid>
-      <category>event</category>
+      <category>viðburðir</category>
       <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2025/10/Hvad-er-flokkun-Johannes-Bjarki-Urbancic-1920-x-1080-.jpg" length="0" type="image/jpeg" />
       <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
       <media:content url="https://menning.kopavogur.is/wp-content/uploads/2025/10/Hvad-er-flokkun-Johannes-Bjarki-Urbancic-1920-x-1080-.jpg" medium="image" type="image/jpeg" width="600" height="400" />
@@ -824,7 +824,7 @@ Ljósmynd: Kristín Helga Ríkharðsdóttir, Bogi, 2025</description>
 &lt;!-- /wp:paragraph --&gt;</ns0:encoded>
       <author>Þorgerður Þórhallsdóttir (Þorgerður Þórhallsdóttir)</author>
       <guid isPermaLink="false">31019</guid>
-      <category>event</category>
+      <category>viðburðir</category>
       <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2025/10/3-.jpg" length="0" type="image/jpeg" />
       <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
       <media:content url="https://menning.kopavogur.is/wp-content/uploads/2025/10/3-.jpg" medium="image" type="image/jpeg" width="600" height="400" />
@@ -851,7 +851,7 @@ Sögufélag Kópavogs stendur fyrir myndgreiningarviðburðum sem opnir eru alme
 &lt;!-- /wp:paragraph --&gt;</ns0:encoded>
       <author>Harpa Grétarsdóttir (Harpa Grétarsdóttir)</author>
       <guid isPermaLink="false">30023</guid>
-      <category>event</category>
+      <category>viðburðir</category>
       <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2025/01/sogufelag-myndgreining.jpg" length="0" type="image/jpeg" />
       <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
       <media:content url="https://menning.kopavogur.is/wp-content/uploads/2025/01/sogufelag-myndgreining.jpg" medium="image" type="image/jpeg" width="600" height="400" />
@@ -894,7 +894,7 @@ Erindið er hluti af verkefninu ,,Bókasafnið gegn upplýsingaóreiðu“ sem e
 &lt;!-- /wp:paragraph --&gt;</ns0:encoded>
       <author>Harpa Grétarsdóttir (Harpa Grétarsdóttir)</author>
       <guid isPermaLink="false">29913</guid>
-      <category>event</category>
+      <category>viðburðir</category>
       <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2025/08/Bokasafnid-gegn-upplysingaoreidu-vidburdarmyndir7.jpg" length="0" type="image/jpeg" />
       <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
       <media:content url="https://menning.kopavogur.is/wp-content/uploads/2025/08/Bokasafnid-gegn-upplysingaoreidu-vidburdarmyndir7.jpg" medium="image" type="image/jpeg" width="600" height="400" />
@@ -935,7 +935,7 @@ Fylgist með í Facebook-hópnum Hannyrðaklúbburinn Kaðlín | Bókasafn Kóp
 &lt;!-- /wp:columns --&gt;</ns0:encoded>
       <author>Harpa Grétarsdóttir (Harpa Grétarsdóttir)</author>
       <guid isPermaLink="false">28009</guid>
-      <category>event</category>
+      <category>viðburðir</category>
       <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2023/01/Kadlin-Adalsafn-090920-1-1.jpg" length="0" type="image/jpeg" />
       <pubDate>Wed, 12 Nov 2025 00:00:00 +0000</pubDate>
       <media:content url="https://menning.kopavogur.is/wp-content/uploads/2023/01/Kadlin-Adalsafn-090920-1-1.jpg" medium="image" type="image/jpeg" width="600" height="400" />
@@ -980,7 +980,7 @@ Fylgist með í Facebook-hópnum Foreldramorgnar | Bókasafn Kópavogs. 
 &lt;!-- /wp:columns --&gt;</ns0:encoded>
       <author>Harpa Grétarsdóttir (Harpa Grétarsdóttir)</author>
       <guid isPermaLink="false">30882</guid>
-      <category>event</category>
+      <category>viðburðir</category>
       <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2025/10/Chrissie-foreldramorgunn.jpg" length="0" type="image/jpeg" />
       <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
       <media:content url="https://menning.kopavogur.is/wp-content/uploads/2025/10/Chrissie-foreldramorgunn.jpg" medium="image" type="image/jpeg" width="600" height="400" />
@@ -1005,7 +1005,7 @@ Fylgist með í Facebook-hópnum Foreldramorgnar | Bókasafn Kópavogs. 
 &lt;!-- /wp:paragraph --&gt;</ns0:encoded>
       <author>Harpa Grétarsdóttir (Harpa Grétarsdóttir)</author>
       <guid isPermaLink="false">30513</guid>
-      <category>event</category>
+      <category>viðburðir</category>
       <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2025/09/thumbnail_IMG_6354.jpg" length="0" type="image/jpeg" />
       <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
       <media:content url="https://menning.kopavogur.is/wp-content/uploads/2025/09/thumbnail_IMG_6354.jpg" medium="image" type="image/jpeg" width="600" height="400" />
@@ -1030,7 +1030,7 @@ Fylgist með í Facebook-hópnum Foreldramorgnar | Bókasafn Kópavogs. 
 &lt;!-- /wp:paragraph --&gt;</ns0:encoded>
       <author>Anna Jóna Dungal (Anna Jóna Dungal)</author>
       <guid isPermaLink="false">29032</guid>
-      <category>event</category>
+      <category>viðburðir</category>
       <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2025/06/Salurinn_25_26_AFF_TIX_1920X1080_02.jpg" length="0" type="image/jpeg" />
       <pubDate>Thu, 13 Nov 2025 00:00:00 +0000</pubDate>
       <media:content url="https://menning.kopavogur.is/wp-content/uploads/2025/06/Salurinn_25_26_AFF_TIX_1920X1080_02.jpg" medium="image" type="image/jpeg" width="600" height="400" />
@@ -1091,7 +1091,7 @@ Styrktaraðilar tónleikanna eru: uppbyggingarsjóður Suðurnesja, K. Steinarss
 &lt;!-- /wp:paragraph --&gt;</ns0:encoded>
       <author>Axel Ingi Árnason (Axel Ingi Árnason)</author>
       <guid isPermaLink="false">29484</guid>
-      <category>event</category>
+      <category>viðburðir</category>
       <enclosure url="https://menning.kopavogur.is/wp-content/uploads/2025/07/1920x1080-cover.jpg" length="0" type="image/jpeg" />
       <pubDate>Fri, 14 Nov 2025 00:00:00 +0000</pubDate>
       <media:content url="https://menning.kopavogur.is/wp-content/uploads/2025/07/1920x1080-cover.jpg" medium="image" type="image/jpeg" width="600" height="400" />
